@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 37a506d71e631124fa6a37bfef869ac9
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -2222319543498045074
+    second: RoboticArm.armature|armatureAction
+  - first:
+      74: 7872381645085070963
+    second: RoboticArm.armature|Plane.001Action
+  - first:
+      74: -1928458840507991313
+    second: RoboticArm.armature|Plane.001Action.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: RoboticArm.armature|armatureAction
+      takeName: RoboticArm.armature|armatureAction
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 167
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Robotic_Arm(Clone)
+      parentName: 
+      position: {x: 7.449407, y: -0.014801915, z: -0.13964473}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: base
+      parentName: Robotic_Arm(Clone)
+      position: {x: 0.00035051643, y: -0.000018359124, z: 0}
+      rotation: {x: 0.6123724, y: -0.35355338, z: -0.3535534, w: 0.61237246}
+      scale: {x: 1, y: 1, z: 1}
+    - name: base 1
+      parentName: base
+      position: {x: 0.008082988, y: 0.02004301, z: 0.0050478936}
+      rotation: {x: -0.6123724, y: 0.35355338, z: 0.3535534, w: 0.61237246}
+      scale: {x: 1, y: 1, z: 1}
+    - name: turret
+      parentName: base
+      position: {x: 4.6566128e-12, y: 0.009229611, z: -5.820766e-13}
+      rotation: {x: 0.00000007343755, y: 0.999976, z: 0.00000014019774, w: 0.0069324193}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: turret 1
+      parentName: turret
+      position: {x: -0.00043289183, y: 0.010813406, z: -0.009502186}
+      rotation: {x: 0.029041182, y: 0.70651007, z: 0.70651037, w: -0.029041175}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: arm1
+      parentName: turret
+      position: {x: -0.0006124196, y: 0.006992149, z: -0.007660056}
+      rotation: {x: -0.009792638, y: 0.970388, z: -0.23803978, w: -0.039855473}
+      scale: {x: 1, y: 1.0000001, z: 1.0000004}
+    - name: arm1 1
+      parentName: arm1
+      position: {x: -0.0003299856, y: 0.003819134, z: 0.0018256521}
+      rotation: {x: -0.7066955, y: 0.000023559884, z: 0.000023547731, w: 0.7075178}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: arm2
+      parentName: arm1
+      position: {x: -4.0934536e-10, y: 0.020275205, z: 0.0000000011920929}
+      rotation: {x: 0.012152458, y: 0.999884, z: 0.002166719, w: 0.008921103}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000008}
+    - name: arm2 1
+      parentName: arm2
+      position: {x: 0.0003696537, y: 0.0019872617, z: -0.016550956}
+      rotation: {x: 0.00000006699888, y: -0.003931553, z: 0.9999923, w: 0.0000000757619}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: arm3
+      parentName: arm2
+      position: {x: 0.0011610513, y: 0.016420513, z: 0.000037690697}
+      rotation: {x: -0.9877987, y: 0.029304545, z: 0.14889067, w: 0.035022765}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: arm3 1
+      parentName: arm3
+      position: {x: -0.0007771325, y: -0.01458662, z: -0.01635527}
+      rotation: {x: 0.00000046937907, y: 0.0002481755, z: 0.9999983, w: -0.0018456728}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: hand
+      parentName: arm3
+      position: {x: -0.0000000017881393, y: 0.006236011, z: 0.0000000038743018}
+      rotation: {x: -0.0011839849, y: 0.020829633, z: 0.0014374905, w: 0.9997813}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand 1
+      parentName: hand
+      position: {x: -0.00085395813, y: -0.020811517, z: -0.016365599}
+      rotation: {x: -0.000000023748724, y: 0.000000041909505, z: 1, w: -0.00000004371139}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: pincer1
+      parentName: hand
+      position: {x: -0.0000000011920929, y: 0.0022442644, z: -0.0000000043213366}
+      rotation: {x: 0.18445924, y: -0.056241654, z: -0.48816434, w: 0.85117996}
+      scale: {x: 1.0000012, y: 0.99999934, z: 1}
+    - name: pincer1 1
+      parentName: pincer1
+      position: {x: 0.0068574953, y: -0.021484114, z: -0.017096417}
+      rotation: {x: 0.03557542, y: -0.011231904, z: 0.9797021, w: -0.19695684}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: pincer1_end
+      parentName: pincer1
+      position: {x: -0, y: 0.0031629456, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pincer2
+      parentName: hand
+      position: {x: -0.0000000011920929, y: 0.0022442644, z: -0.0000000043213366}
+      rotation: {x: -0.25451028, y: -0.06710568, z: 0.62815696, w: 0.732216}
+      scale: {x: 0.9999993, y: 1.0000005, z: 1}
+    - name: pincer2 1
+      parentName: pincer2
+      position: {x: -0.011035551, y: -0.019818585, z: -0.016972193}
+      rotation: {x: -0.013815614, y: -0.010013046, z: 0.97170824, w: 0.23556751}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000001}
+    - name: pincer2_end
+      parentName: pincer2
+      position: {x: -0, y: 0.003108049, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pincer1CTRL
+      parentName: hand
+      position: {x: 0.0018698644, y: 0.0051156464, z: -0.00002378717}
+      rotation: {x: 0.000000015832482, y: -0.000000018160788, z: 0.000000007450581, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: pincer1CTRL_end
+      parentName: pincer1CTRL
+      position: {x: -0, y: 0.0023950099, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pincer2CTRL
+      parentName: hand
+      position: {x: -0.0017111277, y: 0.005124438, z: -0.00003985792}
+      rotation: {x: 0.0000000037252907, y: -0.000000013038516, z: 0.000000003725291, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: pincer2CTRL_end
+      parentName: pincer2CTRL
+      position: {x: -0, y: 0.0023950099, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: armCTRL
+      parentName: turret
+      position: {x: -0.0030978513, y: 0.026976742, z: -0.037841644}
+      rotation: {x: -0.99307257, y: -0.0076116165, z: 0.028534465, w: 0.11373104}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: armCTRL_end
+      parentName: armCTRL
+      position: {x: -0, y: 0.0034449147, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

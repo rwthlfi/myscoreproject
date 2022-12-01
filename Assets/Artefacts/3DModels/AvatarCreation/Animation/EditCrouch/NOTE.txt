@@ -1,0 +1,17 @@
+if you want to edit the animation position due to the rig is not fit.,
+
+go to blender
+- as usual delete everything
+
+- import the FBX
+
+- press 3, and you will go to side view
+
+- move the Armature a bit to the back -> until the head aligns with the blue axis in blender
+
+- apply the "location" to the armature and mesh,
+
+- Export the FBX -> uncheck the "applyTransform" 
+
+and in blender
+- in the animation tab changes the "Root Transform Position (XZ) to original

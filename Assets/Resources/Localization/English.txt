@@ -1,0 +1,389 @@
+//-------------UI Loca	//
+Loading_LoadingHint				Scene is loading, please wait...
+Loading_LanguageSelect				Language Selection
+Loading_Submit					Confirm
+Loading_HintComplete				Loading complete, press the confirm button to continue
+Loading_HintRandom1				Check out the tutorial, if you are new to MyScore
+Loading_HintRandom2				In the settings menu, you can reactivate the controller info
+Loading_HintRandom3				Conference scenes are good for meetings, lectures and mingle
+Loading_HintRandom4				In special 360° scenes you can use the UI buttons to interact
+Loading_HintRandom5				You can change your language during the start of MyScore or in the Welcome scene
+Loading_HintRandom6				If you feel motion sickness, try the settings (vignette, acceleration) for more comfortable adjustments
+Loading_HintRandom7				For new user to VR, the teleport is the preferred way of movement
+UI_MenuError1					is currently sharing the screen,\nonly one person can share the screen at a time
+UI_MenuHelp1					If you need me, I will be stationed at your Left Wirst.
+UI_MenuHelp2					Your Microphone radius has been set to maximum in this Scenario
+UI_MenuHelp3					By Standing here, your voice will be heard by everyone
+UI_MenuTitle					Menu
+UI_MenuLogout					Logout
+UI_MenuRecenter					Re-Center Windows
+UI_MenuMinimize					Minimize all windows
+UI_MenuShowKeyboard				Show Keyboard
+UI_MenuHide					Hide Panel
+UI_MenuShow					Show Panel
+UI_MenuAdmin					Admin
+UI_MenuNotepad					Notepad
+UI_MenuDrawpad					Drawpad
+UI_MenuWebsite					Website
+UI_MenuSetting					Setting
+UI_MenuPenSize					Pen size
+UI_MenuSave					Save
+UI_MenuClearAll					Clear All
+UI_MenuEnterURL					Enter your URL ...
+UI_MenuSaveLink					Save current Link
+UI_PhysicalSetting				Physical Setting
+UI_UserHeight					User Height
+UI_MenuMovementHeader				Movement Speed
+UI_MenuControllerInfo				Controller information
+UI_MicrophoneHeader				Microphones
+UI_MicrophoneMuted				You are muted
+UI_MicrophoneUnmuted				You are speaking
+UI_MicrophoneRadius				Speaking\nRadius
+UI_MicrophoneDefault				None (Default)
+UI_MicrophoneSelected				Selected\nmicrophone
+UI_MicrophoneList				Microphone list
+UI_ShareScreen					Share Screen
+UI_ShareScreenInfo				- Nothing to Share -\nDrag and drop the Window that you want to share here.
+UI_ShareScreenNameInfo				You are viewing the screen of: 
+UI_AdminAttendance				Attendance
+UI_AdminAttendanceInfo				Show the participant in this room
+UI_AdminEnvironment				Environment
+UI_AdminEnvironmentInfo				Set up the room's mood
+UI_AdminScenario				Scenario
+UI_AdminScenarioInfo				Change to another scenario
+UI_AdminGadgets					Gadgets
+UI_AdminGadgetsInfo				the extra function for the Admin only
+UI_AdminAttendanceTitle				Attendance List:
+UI_AdminAttendancePlaceholder			search people in the room. . .
+UI_AdminAttendanceLocation			Show Location
+UI_AdminAttendanceMakeAdmin			Give\nAdmin
+UI_AdminAttendanceShareScreenOff		Turn off\nshare screen
+UI_AdminAttendanceKick				Kick out
+UI_AdminEnvironment360Video			360° Videos:
+UI_AdminEnvironmentNone				None
+UI_AdminEnvironmentCloudy			Cloudy
+UI_AdminEnvironmentAurora			Aurora
+UI_AdminEnvironment360Image			360° Images:
+UI_AdminEnvironmentCityBeach			City Beach
+UI_AdminEnvironmentCityView			City View
+UI_AdminEnvironmentForest			Forest
+UI_AdminEnvironmentBeach			Beach
+UI_AdminEnvironmentPark				Park
+UI_AdminEnvironmentRWTH				FHNW Campus
+UI_AdminEnvironmentTUDarmstadt			Darmstadt Campus
+UI_AdminEnvironmentLogo				Logo:
+UI_AdminScenarioSelection			SCENE SELECTION
+UI_AdminScenarioMatrix				MATRIX
+UI_AdminScenarioConference			CONFERENCE
+UI_AdminScenarioKatschhof			KATSCHHOF
+UI_AdminScenarioRolePlay			ROLE PLAY\nHALL
+UI_AdminScenarioRektorat			RECTORAT
+UI_AdminScenarioConference360			CONFERENCE\n360
+UI_AdminScenarioWZL				WZL HALL
+UI_AdminScenarioRestaurant			RESTAURANT
+UI_AdminScenarioCARES				CARES\nArea
+UI_AdminGadgetClose				Close
+UI_AdminGadgetDrone				DRONE
+UI_AdminGadgetDroneCamera			Camera
+UI_AdminGadgetDroneCameraController		Camera Controller
+UI_AdminGadgetDroneController			Drone Controller
+UI_AdminGadgetDroneDirection			Direction Control
+UI_AdminGadgetDroneHeight			Height Control
+UI_AdminGadgetDroneRotationXZ			Rotation Control - XZ
+UI_AdminGadgetDroneRotationY			Rotation - Y
+UI_AdminGadgetDroneRecordStart			Start Record
+UI_AdminGadgetDroneRecordStop			Stop Record
+UI_AdminGadgetDroneReturn			Return the Camera
+UI_AdminGadgetDroneFollowStart			Follow me!
+UI_AdminGadgetDroneFollowStop			Stop Following
+UI_AdminGadgetIncognito				INCOGNITO
+UI_AdminGadgetIncognitoHeader			INCOGNITO CHARACTER
+UI_AdminGadgetIncognitoNice			Nice Characters
+UI_AdminGadgetIncognitoNormal			Normal Characters
+UI_AdminGadgetIncognitoMean			Mean Characters
+UI_AdminGadgetIncognitoExtra			Extra Character
+UI_AdminGadgetIncognitoInvisible		Invisible
+UI_AdminGadgetIncognitoGhost			Ghost
+UI_AdminGadgetIncognitoRandom			Random
+UI_AdminGadgetIncognitoRemove			Remove Incognito
+UI_AdminGadgetIncognitoInfo			You are in Incognito currently.\nYour avatar is changed and your name tag is invisible.
+UI_AdminGadgetNPCManipulator			NPC MANIPULATOR
+UI_AdminGadgetNPCManipulatorHeader		- NPC MANIPULATOR -
+UI_AdminGadgetNPCManipulatorAudience		Audience Intensity
+UI_AdminGadgetNPCManipulatorAngry		Angry
+UI_AdminGadgetNPCManipulatorCheering		Cheering
+UI_AdminGadgetNPCManipulatorDistraction		Distractions
+UI_AdminGadgetNPCManipulatorDistractionCommand	Command executed
+UI_AdminGadgetNPCManipulatorThrowGood		NPC throw good stuff
+UI_AdminGadgetNPCManipulatorThrowBad		NPC throw bad stuff
+UI_AdminGadgetNPCManipulatorCreakingDoor	Creaking door sound
+UI_AdminGadgetNPCManipulatorBoingOnce		Boing once
+UI_AdminGadgetNPCManipulatorCheerOnce		Cheering once
+UI_AdminGadgetNPCManipulatorTelephone		Telephone ringing
+UI_AdminGadgetNPCManipulatorRandomHand		Random Raising Hand
+UI_AdminGadgetNPCManipulatorTotalNPC		Total NPC Follower
+UI_AdminGadgetNPCManipulatorFollow		Follow:
+UI_AdminGadgetNPCManipulatorRefresh		Refresh
+UI_AdminGadgetNPCManipulatorFollowStop		Stop Follow
+UI_KeyboardScale				Keyboard\nScale
+UI_KeyboardHide					Hide\nKeyboard
+UI_KeyboardSnap					Snap
+UI_KeyboardShow					Show Keyboard
+BigPanelEnterLocalIP				Enter your Local server IP
+BigPanelTargetIP				Set \n Target IP
+BigPanelResetIP					Reset to Default IP
+BigPanelCustomIPInfo				You are using \n a custom IP Address
+UI_MenuSavedLinks				Saved links:
+UI_360VideoLoading				Loading ...
+UI_VideoLoading					Please Wait . . . Currently Preparing
+UI_VideoLoadingError				Sorry, the media does not exist.
+UI_CurrentMedia					Current Media:
+UI_CurrentMediaVideo				Video
+UI_CurrentMediaPicture				Picture
+UI_CurrentMediaWebsite				Website
+UI_CurrentUser					Current User:
+UI_VideoButtonPlay				Play
+UI_VideoButtonPause				Pause
+UI_VideoButtonUnmute				Unmute
+UI_VideoButtonMute				Mute
+UI_VideoButtonExit				Exit
+UI_EnterMail					Enter your email to get the media link
+UI_EnterMailSend				Send
+UI_EnterMailSendHint				Email succesfully sent
+UI_EnterMailSendError				Link not send. Please verify your email.
+UI_EnterMailSubject				MyScore Link VR
+UI_EnterMailOpening				Thank you for using MyScore.\nThis is the link that you selected.\n
+UI_EnterMailClosing				\nWe hope it is going to be helpful to you.\n\n\nBest regards,\n\n\nMyScore Developer Team.\n\nFor more information, please visit the International Office website of the RWTH Aachen University
+//-------------Welcome Scene Loca	//
+Button_TutorialStart				Start Tutorial
+TutorialLanguageHeader				Tutorial Language
+Tutorial_PCInfo					PC Controls:\n\n> ""WASD"" Keys <\n(Move Avatar)\n\n> Mouse Movement <\n(Look around)\n\n> ""Shift"" Key <\n(Hold to run, release to walk)\n\n> ""Tab"" Key <\nSit / Stand\n\n> Mouse Button ""Left"" <\n(Interact with UI and Menu)\n\n> Mouse Button ""Right"" <\n(Entrance Hall: Close App)\n(Scenarios: Open Menu)\n\n\n> Keyboard Keys <\nType texts inside input fields
+BigPanel_EnterName				Please enter your name...
+BigPanel_GameRoomButton				GO ONLINE !
+BigPanel_HintText				Thank you for trying our MyScore Software. This software still in Alpha Version. Please expect some bugs
+BigPanel_HintTextUpdate				Your are using the old MyScore app.\nIt is recommended that you update them at:\n\nhttps://vredu.lfi.rwth-aachen.de/en/
+BigPanel_PanelListTitle				ONLINE ROOMS
+BigPanel_PanelListExplain			Lets join the pre-existing room and meet your friend or colleagues!
+BigPanel_PanelListFilter			Filter rooms selection
+BigPanel_PanelListRoomName			enter room's name...
+BigPanel_RoomListAll				Show\nall Rooms
+BigPanel_RoomListConference			Conference\nRoom
+BigPanel_RoomListKatschhof			Katschhof\nRoom
+BigPanel_RoomListRoleplay			Role Play\nRoom
+BigPanel_RoomListRectorate			Rectorate\nRoom
+BigPanel_RoomListBar				Bar\nRoom
+BigPanel_RoomListFlood				Mobile\nFlood Room
+BigPanel_RoomListScout				Scout\nRoom
+BigPanel_RoomListConference360			Conference\n360°\nRoom
+BigPanel_RoomListWZL				WZL Hall
+BigPanel_RoomListRestaurant			Sozialwerk \nRestaurant
+BigPanel_RoomListCARES				CARES \nArea
+BigPanel_RoomListRiver				River Basin Landscape
+BigPanel_RoomListRWTHUniversity 		RWTH\n Aachen
+BigPanel_RoomListBackButton			Go Back To Login
+BigPanel_OnlineRoomSearch			Search Room
+BigPanel_OnlineRoomRefresh			Refresh
+BigPanel_OnlineRoomFilter			Filter room by room's or creator's name
+BigPanel_CreateRoomTitle			CREATE NEW ROOM
+BigPanel_CreateRoomHeader			Room Scenario:
+BigPanel_CreateRoomProperties			Room Properties:
+BigPanel_CreateRoomNameHeader			Room Name:
+BigPanel_CreateRoomName				enter room's name...
+BigPanel_CreateRoomUsers			Maximum Users:
+BigPanel_CreateRoomPassword			Room Password:
+BigPanel_CreateRoomPasswordEntry		enter room's password...
+BigPanel_CreateRoomPasswordHint			you can leave the Room Password empty, if you don't need any.
+BigPanel_CreateRoomExpire			Room Expire Date:
+BigPanel_CreateRoomButton			CREATE NEW ROOM
+BigPanel_ErrorEmptyName				Name cannot be empty
+BigPanel_ErrorTryConnectServer			Try to Connect to Server . . .
+BigPanel_ErrorConnection			Error Connecting, please make sure that you have an internet connection.\nTry to re-open the application if it is needed.\n
+BigPanel_ErrorTryRoomCreation			Trying to Create Room . . .
+BigPanel_ErrorTryRoomCreationFail		Failed to create game.
+BigPanel_ErrorExpireDate			Please verify that the entered\nexpire Date is correct.
+BigPanel_ErrorExpireDatePast			you might have entered the expire date\nthats already past.\nPlease verify and try once again.
+BigPanel_RoomCreationSuccess			Your room request has been successfully sent.\nThe room will show up soon in the Online Rooms list.
+AvatarCanvas_Title				AVATAR SELECTION
+AvatarCanvas_Lecturer				Lecturers\nAvatar
+AvatarCanvas_Generic				Generic\nAvatar
+AvatarCanvas_BackButton				Back
+WelcomeWayPointTutorial				New to MyScore?\nTry the tutorial
+WelcomeWayPointAvatar				Customise your\nAvatar & Settings
+Welcome_RobbiVR1.0				Hello I'm LFI the robot. 
+Welcome_RobbiVR1.1				Welcome to the entrance hall of MyScore - Avatar based Teaching and Learning in VR. 
+Welcome_RobbiVR1.2				Here you can choose your Avatar and join other visitors in the scenarios. w
+Welcome_RobbiVR1.3				If you are new to VR, you can check the tutorial and explore the different settings. 
+Welcome_RobbiVR1.4				To start the tutorial, activate the  "Start Tutorial" UI button with your index finger on your controller. 
+Welcome_RobbiPC1.0				Hello I'm LFI the robot. 
+Welcome_RobbiPC1.1				Welcome to the entrance hall of MyScore - Avatar based Teaching and Learning in VR. 
+Welcome_RobbiPC1.2				Here you can choose your Avatar and join other visitors in the scenarios. 
+Welcome_RobbiPC1.3				For moving, you can use the WASD keys on your keyboard and the mouse buttons for interacting with the UI. 
+Welcome_RobbiPC1.4				The full functionality is available with an VR headset! 
+BigPanel_ExpireHint				if the date is not entered then the room will stay open,\nuntil the last person leaves the room.
+MatchButton_Password				Enter Password
+MatchButton_Join				JOIN
+BigPanel_CreateRoomUsersMax			Max. user allowed in the room...
+BigPanel_OnlineUsers				Online users:
+UI_LoginGuestHint				Enter your guest's name...
+BigPanel_RoomCreated				Your room is ready now.\nClick ""Refresh"" if it doesn't show up.
+AvatarCanvas_AllButton				All
+AvatarCanvas_MaleButton				Male
+AvatarCanvas_FemaleButton			Female
+BigPanel_DisconnectHint				You have disconnected
+UI_LanguageHeader				Language
+AvatarCanvas_SettingsHeader			USER SETTINGS
+AvatarCanvas_SettingsHeight			Your Height
+AvatarCanvas_SettingsAcceleration		Acceleration Speed
+AvatarCanvas_SettingsRotation			Rotation Speed
+AvatarCanvas_SettingsController			Show Controller
+AvatarCanvas_SettingsControllerInfo		Show Controller Info
+AvatarCanvas_SettingsVibration			Controller Vibration
+AvatarCanvas_SettingsAudioFeedback		Audio Feedback
+BigPanel_RoomListPresentation			Presentation Hall
+BigPanel_RoomListWaterCascade			WaterEnergyFood\nWater Cascade
+BigPanel_RoomListWaterDesalination		WaterEnergyFood\nDesalination
+//-------------Tutorial Scene Loca
+Tut_1.0						Hey! My name is LFI the robot. Welcome to the club! 
+Tut_1.1						High Five' me, if you want to start the tutorial! 
+Tut_1.2						Great! Now we'll start step by step! 
+Tut_1.3						If you want to skip a lesson you can quick select one in the selection menu. 
+Tut_1.4						Just look at your left hand's wrist and select the lesson. 
+Tut_1.5						Let's start with the first lesson! 
+Tut_2.0						This is the training ground. 
+Tut_2.1						Here you will learn how to move, interact and change your settings. 
+Tut_2.2						It might seem a bit overwhelming. But don't worry, I will guide you! 
+Tut_2.3						First; let's start with the "Movement"! 
+Tut_2.4						As you might have noticed, you can look around by simply turn around in the real world. 
+Tut_2.5.1					You can also turn around using the right controller. 
+Tut_2.5.2					I'll unlock this feature for you. Let's try it out! 
+Tut_2.6						Awesome, now you know how to turn around with your avatar. Let's continue with walking. 
+Tut_2.7.1					With the left controller, you can move forward and sideways. 
+Tut_2.7.2					I'll unlock the feature for you. 
+Tut_2.7.3					Try to reach the marked spot behind me! 
+Tut_2.8.1					Great work! Now you know how to navigate. 
+Tut_2.8.2					Next explore the stations in the tutorial. 
+Tut_2.9.1					Did you know, that you also can use the teleport to move around? 
+Tut_2.9.2					Hold / press the button on the right controller to select your destination. 
+Tut_2.9.3					Then release the button to teleport! 
+Tut_2.9.4					I'll unlock the feature for you. Have fun exploring the Training Ground! 
+Tut_3.0						This is a small meeting area. Here you can find a comforatable place to sit and relax. 
+Tut_3.1						To sit, you simply walk to a chair or to the couch, find the right position and take a seat like in the real world. 
+Tut_3.2						Sitting will be important in conference or meeting scenarios, where you can mingle with other visitors. 
+Tut_4.0						This is the settings menu. Here you can change your Avatar, set your height, tweak the vignette or change different settings. 
+Tut_4.1						By pressing the index finger button, you activate the controller for interaction. 
+Tut_4.2						Point with the white line over an UI object to select it. 
+Tut_4.3						When you are ready, hit the index finger button on the controller to confirm the selection. 
+Tut_4.4						Check out the other menu options! 
+Tut_5.0						Here you can grab different objects. 
+Tut_5.1						There are two types of objects. The single grab and the dual grab objects. 
+Tut_5.2						Single grab objects can be grabbed with the left or the right controller. 
+Tut_5.3						Dual grab objects, must be grabbed with both controllers. 
+Tut_5.4						You can grab an object by walking near it, pointing the controller and holding the middle finger button. 
+Tut_5.5						By releasing the middle finger button, the object can be placed or dopped. 
+Tut_5.6						Dual grab objects need to be hold with both controllers to be transported. 
+Tut_5.7						Let's try it out! You can also try to stack the objects and experiment with their physics. 
+Tut_AvatarSelection				Avatar Selection
+Tut_CommunicationHeader				Communication
+Tut_LearningHeader				Learning
+Tut_Welcome					Welcome to the tutorial of\n""MyScore""\nAvatar-based Teaching & Learning in VR\n\nHave a look around and explore the basic controls
+Tut_Grab1					Single grab objects
+Tut_Grab2					Dual grab objects
+Tut_Sitting					Sitting on different seats
+Tut_RestartButton				Restart Tutorial
+Tut_LeaveButton					Leave Tutorial
+InfoWallAvatarText				Change your Avatar
+UI_SitButton					Sit ?
+UI_WalkButton					Walk ?
+UI_SitWalkHeader				Would you like to . . .
+UI_AvatarHeader					Avatar
+UI_HeightHeader					Height
+UI_VignetteHeader				Vignette Effect
+UI_SettingsHeader				Settings
+UI_LoginHeader					LOGIN
+UI_LoginRegister				Not registered? Click here.
+UI_LoginGuest					Play as Guest
+Tut_Progress					Progress:
+Tut_ControllerHintMove				Move the thumbstick up / down\nto move forward / backward
+Tut_ControllerHintMoveTeleport			Move the thumbstick during the teleportation to set your direction
+Tut_ControllerHintGrab				Press to grab an object
+Tut_ControllerHintRotate			Move the thumbstick left / right to rotate your orientation
+Tut_ControllerHintIndex				Press to interact with UI / screen. E.g. typing on the keyboard
+Tut_ControllerHintTeleport			Press the B button to activate the teleportation
+Tut_ControllerHintTeleportVive			Press the touchpad to activate the teleportation
+Tut_ControllerHintMoveVive			Touch the touchpad up / down\nto move forward / backward
+Tut_ControllerHintRotateVive			Touch the touchpad left / right to rotate your orientation
+Tut_CommunicationHint				Meetings, conferences, social meetups
+Tut_LearningHint				Tutoring, interactive learning, knowledge sharing 
+UI_AvatarLecturer				"Lecturers\nAvatar"
+UI_GenericLecturer				"Generic\nAvatar"
+UI_BackButton					Back
+UI_VignetteSub					This is the black fog around the eye which reduces the motion sickness for the user.\n\nIt is recommended to set the ""Strength"" to max. in Angular and Linear Velocity for a new user
+UI_VignetteVelocity				Angular Velocity Effect
+UI_VignetteAcceleration				Linear Acceleration Effect
+UI_OtherSettings				Other Settings
+UI_ShowController				Show Controller
+UI_ShowControllerInfo				Show Controller Info
+UI_ControllerFeedback				Controller Vibration
+UI_Acceleration					Acceleration Speed 
+UI_Rotation					Rotation Speed
+UI_TutorialQuick				Tutorial Quick Selection
+UI_TutorialRotationLesson			Start Rotation Lesson
+UI_TutorialMoveLesson				Start Movement Lesson
+UI_TutorialTeleportLesson			Start Teleportation Lesson
+UI_TutorialFreeExploration			Start Free Exploration
+Tut_TextInput					Point and select this text to start typing...\n\nTo type, hold the index finger and touch the keyboard keys with the appearing points on the controller.
+Tut_Typing					Typing Text
+Tut_360						360° Spheres
+Tut_360Info					In 360° spheres, you can navigate by pressing the UI buttons
+Tut_WhiteboardHeader				Whiteboard
+Tut_3DDrawHeader				3D Drawing
+Tut_WhiteboardHint				To write on the board, take the special board pen, point the tip to the board and touch the board with it.
+Tut_3DDrawHint					Take the 3D pen with your right hand and press the trigger to start drawing in 3D. Use the eraser to remove lines.
+Keyboard_EnterText				Enter text...
+UI_AudioFeedback				UI Audio Feedback
+//-------------WZL Scene Loca
+Activate360					Activate 360° spheres
+Deactivate360					Deactivate 360° spheres
+WZLPanelTitle					Mobile Flood Protection Unit
+WZLPanelDescription				A mobile flood protection barrier system for quickly stopping and damming back watercourses, overflows, and for raising the embankment in flood protection as a temporary facility. The system has water-fillable water storage units that are connected to one another and supporting structures.
+WZLPanelTime					Elapsed Time: 
+WZLPanelStartTutorial				Start Tutorial
+WZLPanelResetTutorial				Reset Tutorial
+WZLPanelTestFlood				Test Flood!
+WZLManualTitle					Mobile Flood Unit Instruction Manual
+WZLManualGoodLuck				Test flood & Good luck!
+WZLManuelStep1					STEP 1:\nUncover foundations:\nUnscrew plugs on the floor
+WZLManuelStep2					STEP 2:\nPlace pillars correctly on top of foundations
+WZLManuelStep3					STEP 3:\nAttach pillars with screws to the foundations
+WZLManuelStep4					STEP 4:\nLubricate the insides of the pillars with the spray can 
+WZLManuelStep5					STEP 5:\nPlace sealing logs: Bottom log with rubber part first
+WZLManuelStep6					STEP 6:\nScrew in\ntightening clamp\non top of upper log
+WZLDrillInfo					Point on top of screws to start screwing
+WZLSprayInfo					Point nozzle at the column's rubber to lubricate
+WZLScrewIn					Screw thight
+WZLLubricateHint				Please lubricate the column
+WZLScrewOut					Remove this
+WZLProtectionWallInfo1 				Remove 4 plugs with an automated screw driver\non each of the highlighted parts
+WZLProtectionWallInfo2 				Insert center support collumn here
+WZLProtectionWallInfo3 				Attach 4 screws on each of the highlighted parts
+WZLProtectionWallInfo4				Attach the stop log\n(The bar with bottom black bar)
+WZLProtectionWallInfo5				Attach additional stop Logs\nuntil it reach this level
+//-------------RWTH Scene Loca
+RWTH_BoothCurrentUser				Current user is having a look at a website.\nIf you would like to see it, please ask.
+RWTH_BoothNoUser				No one is viewing anything.\nFeel free to step in.
+RWTH_BoothFaculty				Faculty
+RWTH_BoothFacultyInfo				Faculty Info
+RWTH_BoothResearchTab				Research
+RWTH_BoothTeachingTab				Teaching
+RWTH_BoothHint1					Click the research or teaching tab to see the related media content
+RWTH_BoothHint2					Click the arrows (or swipe) to switch between different media content in a tab
+RWTH_BoothHint3					Click on the media icon to play a video, show an image or open a website
+RWTH_BoothHint4					Here you can see who is currently in control of the media panel
+RWTH_BoothHint5					Click on the timeline to change the current video time. It will be synchonized to other viewers as well
+RWTH_BoothHint6					In this section you can see the currently played media (video, image or website)
+RWTH_Appointment				Appointments Schedule
+RWTH_ClickExit					Click to exit
+RWTH_RoomAvailable				Room available from:
+RWTH_360Area					360° Videos Area
+RWTH_360Button1					phyphox\n\nphysical phone experiments
+RWTH_360Button2					RWTH Main Building

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Fresenius.unity
+    guid: 0954dbb9c967d08419a9985f657f6c95
+  - enabled: 1
+    path: Assets/Scenes/0_Loading.unity
+    guid: 4f805f192a6fdd545b3a8ebca37e52b8
+  - enabled: 1
+    path: Assets/Scenes/WelcomeScene.unity
+    guid: 29d6aa49ef725ba4c8389843cd71a949
+  - enabled: 0
+    path: Assets/Scenes/WelcomeScene_OldAvtrSys.unity
+    guid: 844dea8c13600e54fa148e601585f390
+  - enabled: 1
+    path: Assets/Scenes/Katschhof.unity
+    guid: 661b0541e03457f44a8763d676e5c0fb
+  - enabled: 1
+    path: Assets/Scenes/RolePlayHall.unity
+    guid: 12eceab848349c64ca23ba03062b87db
+  - enabled: 0
+    path: Assets/Scenes/Rektoratsraum.unity
+    guid: 998fd5b1d1c67fc49b8c0095a9218290
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: ff90174b5892bfe4fa2f57eb2a109132
+  - enabled: 0
+    path: Assets/Scenes/MatrixScene.unity
+    guid: 11f6564d8ecaec843ae8b0571b432f08
+  - enabled: 0
+    path: Assets/Scenes/Conference360Scene.unity
+    guid: c28b621fa6fa9c64bbe4416a7647d7d6
+  - enabled: 1
+    path: Assets/Scenes/MobileFloodUnit.unity
+    guid: b61155615b879054cbb5696f02a774b8
+  - enabled: 0
+    path: Assets/Scenes/SozialWerk_Restaurant.unity
+    guid: 78a1829fc3fbad94cb4e340a8429fb53
+  - enabled: 0
+    path: Assets/Scenes/RaymondsLab.unity
+    guid: 45d23e8201d08df428fb5bfae4830628
+  - enabled: 0
+    path: Assets/Scenes/CARESScene.unity
+    guid: d0b89e151a33c2749a559d9f2ed58757
+  - enabled: 0
+    path: Assets/Scenes/RiverBasinLandscape.unity
+    guid: c2e5ad7c5113fa546885b8d81aae6647
+  - enabled: 1
+    path: Assets/Scenes/RWTHAachen.unity
+    guid: db7c3f88bde49684cb288626a0ebc44f
+  - enabled: 0
+    path: Assets/Scenes/WZLHall.unity
+    guid: 476b904e3b8e0144fb9406879c49e094
+  - enabled: 0
+    path: Assets/Scenes/PresentationHall.unity
+    guid: 1dec3d8791e2eda4cab6585544f17407
+  - enabled: 0
+    path: Assets/Scenes/WaterEnergyFood_WaterCascade.unity
+    guid: a2d164c8aedc63f44b37243089537ab7
+  - enabled: 0
+    path: Assets/Scenes/WaterEnergyFood_WaterDesalination.unity
+    guid: 4539ab1f4e137bd478bb7cae68c69a69
+  - enabled: 1
+    path: Assets/Scenes/GruppenArbeit.unity
+    guid: b55857b22dd5d3a4b92d09c4c42f77ab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3091b11359126d542b375e1ccb47c3a7, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: ea92f6e48384ba44c9ee1cc6a5fdd1f2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f50b7a2dc5511f947b0d329429fd5650, type: 2}

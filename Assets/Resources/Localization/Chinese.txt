@@ -1,0 +1,389 @@
+//-------------UI Loca
+Loading_LoadingHint				场景加载中，请稍等...
+Loading_LanguageSelect				语言选择
+Loading_Submit					确认
+Loading_HintComplete				加载完成，按确认键继续
+Loading_HintRandom1				如果您是 MyScore 的新手，请查看教程
+Loading_HintRandom2				在设置菜单中，您可以重新激活控制器信息
+Loading_HintRandom3				会议场景适合开会、讲座、交流
+Loading_HintRandom4				在特殊的 360° 场景中，您可以使用 UI 按钮进行交互
+Loading_HintRandom5				您可以在 MyScore 开始时或在欢迎场景中更改您的语言
+Loading_HintRandom6				如果您感到恶心，请更改设置（小插图、加速）以获得更舒适的体验
+Loading_HintRandom7				对于 VR 新用户，传送是首选的移动方式
+UI_MenuError1					当前正在共享屏幕，\n 一次只能有一个人共享屏幕
+UI_MenuHelp1					如果你需要我，我会驻扎在你的左翼。
+UI_MenuHelp2					在此场景中，您的麦克风半径已设置为最大
+UI_MenuHelp3					站在这里，每个人都会听到你的声音
+UI_MenuTitle					菜单
+UI_MenuLogout					登出
+UI_MenuRecenter					重新居中窗口
+UI_MenuMinimize					最小化所有窗口
+UI_MenuShowKeyboard				显示键盘
+UI_MenuHide					隐藏面板
+UI_MenuShow					显示面板
+UI_MenuAdmin					行政
+UI_MenuNotepad					记事本
+UI_MenuDrawpad					拉板
+UI_MenuWebsite					网站
+UI_MenuSetting					环境
+UI_MenuPenSize					笔尺寸
+UI_MenuSave					节省
+UI_MenuClearAll					清除所有
+UI_MenuEnterURL					输入您的网址...
+UI_MenuSaveLink					保存当前链接
+UI_PhysicalSetting				物理设置
+UI_UserHeight					用户身高
+UI_MenuMovementHeader				移动速度
+UI_MenuControllerInfo				控制器信息
+UI_MicrophoneHeader				麦克风
+UI_MicrophoneMuted				你被禁言
+UI_MicrophoneUnmuted				你在说话
+UI_MicrophoneRadius				说话\n半径
+UI_MicrophoneDefault				无（默认）
+UI_MicrophoneSelected				选定的\n麦克风
+UI_MicrophoneList				麦克风列表
+UI_ShareScreen					共享屏幕
+UI_ShareScreenInfo				- 没什么可分享的 -\n将要共享的窗口拖放到此处。
+UI_ShareScreenNameInfo				您正在查看以下屏幕： 
+UI_AdminAttendance				出勤率
+UI_AdminAttendanceInfo				显示此房间的参与者
+UI_AdminEnvironment				环境
+UI_AdminEnvironmentInfo				设置房间的气氛
+UI_AdminScenario				设想
+UI_AdminScenarioInfo				换个场景
+UI_AdminGadgets					小工具
+UI_AdminGadgetsInfo				仅适用于管理员的额外功能
+UI_AdminAttendanceTitle				出席名单：
+UI_AdminAttendancePlaceholder			搜索房间里的人. . .
+UI_AdminAttendanceLocation			显示位置
+UI_AdminAttendanceMakeAdmin			授予 \n管理员权限
+UI_AdminAttendanceShareScreenOff		关闭\n共享屏幕
+UI_AdminAttendanceKick				踢出
+UI_AdminEnvironment360Video			360°视频：
+UI_AdminEnvironmentNone				没有任何
+UI_AdminEnvironmentCloudy			多云的
+UI_AdminEnvironmentAurora			极光
+UI_AdminEnvironment360Image			360°图像：
+UI_AdminEnvironmentCityBeach			城市海滩
+UI_AdminEnvironmentCityView			城市景观
+UI_AdminEnvironmentForest			森林
+UI_AdminEnvironmentBeach			海滩
+UI_AdminEnvironmentPark				公园
+UI_AdminEnvironmentRWTH				FHNW \n 校园
+UI_AdminEnvironmentTUDarmstadt			达姆施塔特校区
+UI_AdminEnvironmentLogo				标识：
+UI_AdminScenarioSelection			情景选择
+UI_AdminScenarioMatrix				矩阵
+UI_AdminScenarioConference			会议
+UI_AdminScenarioKatschhof			KATSCHHOF
+UI_AdminScenarioRolePlay			角色扮演 \n大厅
+UI_AdminScenarioRektorat			雷克托拉特
+UI_AdminScenarioConference360			会议\n360
+UI_AdminScenarioWZL				王者堂
+UI_AdminScenarioRestaurant			餐厅
+UI_AdminScenarioCARES				关心\n区域
+UI_AdminGadgetClose				关闭
+UI_AdminGadgetDrone				无人机
+UI_AdminGadgetDroneCamera			相机
+UI_AdminGadgetDroneCameraController		相机控制器
+UI_AdminGadgetDroneController			无人机控制器
+UI_AdminGadgetDroneDirection			方向控制
+UI_AdminGadgetDroneHeight			高度控制
+UI_AdminGadgetDroneRotationXZ			旋转控制 - XZ
+UI_AdminGadgetDroneRotationY			旋转 - Y
+UI_AdminGadgetDroneRecordStart			开始记录
+UI_AdminGadgetDroneRecordStop			停止记录
+UI_AdminGadgetDroneReturn			归还相机
+UI_AdminGadgetDroneFollowStart			跟着我！
+UI_AdminGadgetDroneFollowStop			停止关注
+UI_AdminGadgetIncognito				隐姓埋名
+UI_AdminGadgetIncognitoHeader			隐身角色
+UI_AdminGadgetIncognitoNice			好角色
+UI_AdminGadgetIncognitoNormal			普通字符
+UI_AdminGadgetIncognitoMean			平均字符
+UI_AdminGadgetIncognitoExtra			额外字符
+UI_AdminGadgetIncognitoInvisible		无形的
+UI_AdminGadgetIncognitoGhost			鬼
+UI_AdminGadgetIncognitoRandom			随机的
+UI_AdminGadgetIncognitoRemove			删除隐身
+UI_AdminGadgetIncognitoInfo			您当前处于隐身模式。\n您的头像已更改，您的姓名标签不可见。
+UI_AdminGadgetNPCManipulator			NPC机械手
+UI_AdminGadgetNPCManipulatorHeader		- NPC 机械手 -
+UI_AdminGadgetNPCManipulatorAudience		观众强度
+UI_AdminGadgetNPCManipulatorAngry		生气的
+UI_AdminGadgetNPCManipulatorCheering		欢呼
+UI_AdminGadgetNPCManipulatorDistraction		分心
+UI_AdminGadgetNPCManipulatorDistractionCommand	命令执行
+UI_AdminGadgetNPCManipulatorThrowGood		NPC扔好东西
+UI_AdminGadgetNPCManipulatorThrowBad		NPC扔坏东西
+UI_AdminGadgetNPCManipulatorCreakingDoor	吱吱作响的门声
+UI_AdminGadgetNPCManipulatorBoingOnce		嘘！一次
+UI_AdminGadgetNPCManipulatorCheerOnce		欢呼一次
+UI_AdminGadgetNPCManipulatorTelephone		电话铃声
+UI_AdminGadgetNPCManipulatorRandomHand		随机举手
+UI_AdminGadgetNPCManipulatorTotalNPC		NPC 追随者总数
+UI_AdminGadgetNPCManipulatorFollow		跟随：
+UI_AdminGadgetNPCManipulatorRefresh		刷新
+UI_AdminGadgetNPCManipulatorFollowStop		停止关注
+UI_KeyboardScale				键盘\n 缩放
+UI_KeyboardHide					隐藏\n 键盘
+UI_KeyboardSnap					点击到位
+UI_KeyboardShow					显示键盘
+BigPanelEnterLocalIP				输入您的本地服务器 IP
+BigPanelTargetIP				设置 \n 目标 IP
+BigPanelResetIP					重置为默认 IP
+BigPanelCustomIPInfo				您正在使用\n 自定义 IP 地址
+UI_MenuSavedLinks				保存的链接：
+UI_360VideoLoading				正在加载...
+UI_VideoLoading					Please Wait . . . Currently Preparing
+UI_VideoLoadingError				Sorry, the media does not exist.
+UI_CurrentMedia					Current Media:
+UI_CurrentMediaVideo				Video
+UI_CurrentMediaPicture				Picture
+UI_CurrentMediaWebsite				Website
+UI_CurrentUser					Current User:
+UI_VideoButtonPlay				Play
+UI_VideoButtonPause				Pause
+UI_VideoButtonUnmute				Unmute
+UI_VideoButtonMute				Mute
+UI_VideoButtonExit				Exit
+UI_EnterMail					Enter your email to get the media link
+UI_EnterMailSend				Send
+UI_EnterMailSendHint				Email succesfully sent
+UI_EnterMailSendError				Link not send. Please verify your email.
+UI_EnterMailSubject				MyScore Link VR
+UI_EnterMailOpening				Thank you for using MyScore.\nThis is the link that you selected.\n
+UI_EnterMailClosing				\nI hope it is going to be helpfull for you.\n\n\nBest regards,\n\n\nMyScore Developer Team.\n\nFor more information, please visit the International Office website of the RWTH Aachen University
+//-------------Welcome Scene Loca
+Button_TutorialStart				开始教程 
+TutorialLanguageHeader				教程语言
+Tutorial_PCInfo					电脑控制:\n\n> "WASD" 键 <\n(移动形象)\n\n> 移动鼠标 <\n(环顾四周)\n\n> "Shift" 键 <\n(按住跑，释放行走)\n\n> "Tab" 键<\n坐下/ 站起来\n\n> 鼠标左键 <\n(操作用户界面和菜单)\n\n> 鼠标右键 <\n(欢迎大厅: 关闭程序)\n(游戏界面: 打开菜单)\n\n> 键盘键 <\n输入栏里输入文字
+BigPanel_EnterName				请输入你的名字。。。
+BigPanel_GameRoomButton				连接服务器
+BigPanel_HintText				感谢你使用Myscore,该软件正处于开发阶段，可能会出现一些错误。
+BigPanel_HintTextUpdate				“您正在使用旧版本的Myscore,\n\n请您下载最新版本:\n\nhttps://vredu.lfi.rwth-aachen.de/”
+BigPanel_PanelListTitle				在线房间
+BigPanel_PanelListExplain			进入一个已创建的房间，与你的朋友和同事见面吧！
+BigPanel_PanelListFilter			筛选房间的选项
+BigPanel_PanelListRoomName			输入你的房间名
+BigPanel_RoomListAll				显示所有房间
+BigPanel_RoomListConference			会议室
+BigPanel_RoomListKatschhof			Katschhof（亚琛地名）\n房间
+BigPanel_RoomListRoleplay			角色扮演房间
+BigPanel_RoomListRectorate			校长办公室
+BigPanel_RoomListBar				酒吧
+BigPanel_RoomListFlood				动态防洪房间
+BigPanel_RoomListScout				童子军房间
+BigPanel_RoomListConference360			360°会议室
+BigPanel_RoomListWZL				WZL厅
+BigPanel_RoomListRestaurant			Sozialwerk \n餐厅
+BigPanel_RoomListCARES				CARES \n区域
+BigPanel_RoomListRiver				流域景观
+BigPanel_RoomListRWTHUniversity			RWTH \n 亞琛
+BigPanel_RoomListBackButton			回到登陆界面
+BigPanel_OnlineRoomSearch			寻找房间
+BigPanel_OnlineRoomRefresh			更新
+BigPanel_OnlineRoomFilter			根据名字或创建者筛选房间
+BigPanel_CreateRoomTitle			创建新的房间
+BigPanel_CreateRoomHeader			房间场景：
+BigPanel_CreateRoomProperties			房间性质：
+BigPanel_CreateRoomNameHeader			房间名：
+BigPanel_CreateRoomName				输入房间名。。。
+BigPanel_CreateRoomUsers			最多用户数量：
+BigPanel_CreateRoomPassword			房间密码
+BigPanel_CreateRoomPasswordEntry		输入房间密码。。。
+BigPanel_CreateRoomPasswordHint			如果你不需要，你可以不设置房间密码
+BigPanel_CreateRoomExpire			房间有效期
+BigPanel_CreateRoomButton			创建新房间
+BigPanel_ErrorEmptyName				房间名不能为空
+BigPanel_ErrorTryConnectServer			正在尝试与服务器创建连接 。。。
+BigPanel_ErrorConnection			服务器连接出现问题，请检查网络服务器连接错误，请检查您的网络连接。如有必要，重新启动程序。
+BigPanel_ErrorTryRoomCreation			正在创建房间。。。
+BigPanel_ErrorTryRoomCreationFail		房间设置不成功
+BigPanel_ErrorExpireDate			请检查房间有效期是否正确。
+BigPanel_ErrorExpireDatePast			您可能输入了过期日期。\n请再次检查您的输入。
+BigPanel_RoomCreationSuccess			您的请求已成功发送。\n该房间将很快显示在“在线房间”下。
+AvatarCanvas_Title				头像选择
+AvatarCanvas_Lecturer				讲师形象
+AvatarCanvas_Generic				通用形象
+AvatarCanvas_BackButton				返回
+WelcomeWayPointTutorial				MyScore 的新用户？\n试试教程
+WelcomeWayPointAvatar				自定义您的虚拟形象和设置
+Welcome_RobbiVR1.0				您好，我是机器人LFI。 
+Welcome_RobbiVR1.1				欢迎来到 MyScore 大厅 - 基于虚拟形象的教学和学习。 
+Welcome_RobbiVR1.2				在这里您可以选择您的虚拟形象并可以看到场景中的其他访客。 
+Welcome_RobbiVR1.3				如果您是第一次使用 VR，请查看教程并探索不同的设置。 
+Welcome_RobbiVR1.4				选择您的首选语言（EN 和 DE 可用），然后用食指在控制器上按下“开始教程”按钮。 
+Welcome_RobbiPC1.0				您好，我是机器人LFI。 
+Welcome_RobbiPC1.1				欢迎来到 MyScore 大厅 - 基于虚拟形象的教学和学习。 
+Welcome_RobbiPC1.2				在这里您可以选择您的虚拟形象并可以看到场景中的其他访客。 
+Welcome_RobbiPC1.3				您可以使用键盘上的WASD键和点击鼠标左键使用UI进行移动。 
+Welcome_RobbiPC1.4				只有佩戴VR Headset 才能使用完整功能！ 
+BigPanel_ExpireHint				如果没有输入日期，房间将保持开放，直到最后一个人离开。
+MatchButton_Password				输入密码
+MatchButton_Join				加入
+BigPanel_CreateRoomUsersMax			最大。不允许更多用户进入房间...
+BigPanel_OnlineUsers				在线用户：
+UI_LoginGuestHint				输入客人的姓名...
+BigPanel_RoomCreated				你的房间已经准备好了。\n如果未显示，请单击“刷新”。
+AvatarCanvas_AllButton				全部
+AvatarCanvas_MaleButton				男人
+AvatarCanvas_FemaleButton			女性
+BigPanel_DisconnectHint				您已断开连接
+UI_LanguageHeader				语
+AvatarCanvas_SettingsHeader			用户设置
+AvatarCanvas_SettingsHeight			你的身高
+AvatarCanvas_SettingsAcceleration		加速速度
+AvatarCanvas_SettingsRotation			旋转速度
+AvatarCanvas_SettingsController			显示控制器
+AvatarCanvas_SettingsControllerInfo		显示控制器信息
+AvatarCanvas_SettingsVibration			控制器振动
+AvatarCanvas_SettingsAudioFeedback		音频反馈
+BigPanel_RoomListPresentation			展示厅
+BigPanel_RoomListWaterCascade			水能食物\n水梯
+BigPanel_RoomListWaterDesalination		水能食品\n海水淡化
+//-------------Tutorial Scene Loca
+Tut_1.0						嘿！我的名字是机器人LFI。欢迎加入俱乐部! 
+Tut_1.1						给我们一个“击掌”，让我们开始教程 
+Tut_1.2						很好! 我们现在开始一步一步地进行! 
+Tut_1.3						如果你想跳过一节课，请使用选择菜单。 
+Tut_1.4						看看你的左手腕。 
+Tut_1.5						我们从第一课开始! 
+Tut_2.0						这里是训练区。 
+Tut_2.1						在这里，你将学习如何移动、互动和改变你的设置。 
+Tut_2.2						现在来看这里好像有很多问题，不要担心，我会陪你一起 
+Tut_2.3						首先，让我们从 "移动 "开始! 
+Tut_2.4						你可能已经注意到，你可以通过在现实世界中简单的转身来观察周围。 
+Tut_2.5.1					你也可以用右边的控制器来查看周围。 
+Tut_2.5.2					我现在解锁了这个功能。试试吧! 
+Tut_2.6						非常好。现在你可以旋转你的形象了。让我们继续走下去。 
+Tut_2.7.1					用左边的控制器，你可以向前和向侧面移动。 
+Tut_2.7.2					我将为你解锁该功能。 
+Tut_2.7.3					试着到达我身后的标记点! 
+Tut_2.8.1					非常好! 现在你知道如何在房间里移动了。 
+Tut_2.8.2					接下来探索教程中的车站。 
+Tut_2.9.1					你知道你也可以传送吗? 
+Tut_2.9.2					按住/按下右侧控制器上的按钮，选择你的目标。 
+Tut_2.9.3					然后松开按钮就可以传送了! 
+Tut_2.9.4					我会为你激活这个功能。尽情探索训练区！ 
+Tut_3.0						这是一个小型会议区。在这里您可以找到一个座位并放松身心。 
+Tut_3.1						如果想坐下，请移动到你想要的地方，然后在现实世界中坐下。 
+Tut_3.2						在会议和会议场景中，你可以会见其他访客，坐下很重要。 
+Tut_4.0						这些是设置。在这里您可以选择你的形象、调整您的尺寸或晕染效果或进行其他设置。 
+Tut_4.1						你可以使用食指激活控制器进行互动 
+Tut_4.2						指向带有白线的 UI 物体以选择它 
+Tut_4.3						准备好后，再次使用食指确认您的选择。 
+Tut_4.4						也看看其他选项吧！ 
+Tut_5.0						在这里你可以抓取物体 
+Tut_5.1						有两种类型的物体。有些可以用一只手抓住，有些可以用双手抓住。 
+Tut_5.2						可以使用左侧或右侧控制器拾取简单的物体。 
+Tut_5.3						必须使用两个控制器拾取复杂物体。 
+Tut_5.4						当你在物体周围时，您可以使用中指按钮（按住）抓取物体。 
+Tut_5.5						释放中指按钮以释放或放置物体 
+Tut_5.6						复杂的物体必须由两个控制器持有 
+Tut_5.7						让我们试试吧！您还可以将物体堆叠在一起并测试它们的物理特性。 
+Tut_AvatarSelection				选择形象
+Tut_CommunicationHeader				交流
+Tut_LearningHeader				学习
+Tut_Welcome					欢迎来到教程\n\n"MyScore"\n在VR中基于虚拟形象的教学与学习\n\n环顾四周，发现基本功能
+Tut_Grab1					单手抓住物体
+Tut_Grab2					双手抓住物体
+Tut_Sitting					坐在不同的地方
+Tut_RestartButton				重新开始教程
+Tut_LeaveButton					离开教程
+InfoWallAvatarText				更改形象
+UI_SitButton					就座？
+UI_WalkButton					走？
+UI_SitWalkHeader				你想要。。。
+UI_AvatarHeader					形象
+UI_HeightHeader					尺寸
+UI_VignetteHeader				晕影效果
+UI_SettingsHeader				设置
+UI_LoginHeader					登录
+UI_LoginRegister				还未注册？点击此处
+UI_LoginGuest					作为游客使用
+Tut_Progress					进展
+Tut_ControllerHintMove				向上/向下移动拇指杆以向前/向后移动
+Tut_ControllerHintMoveTeleport			传送时移动拇指杆进行对齐
+Tut_ControllerHintGrab				按下按钮抓取物体
+Tut_ControllerHintRotate			向左/向右移动拇指杆来转动
+Tut_ControllerHintIndex				按键激活UI。例如使用键盘
+Tut_ControllerHintTeleport			按B键开始传送
+Tut_ControllerHintTeleportVive			按下触摸板开始传送
+Tut_ControllerHintMoveVive			向上/向下触摸触摸板以向前/向后移动
+Tut_ControllerHintRotateVive			触摸触摸板向左/向右转动
+Tut_CommunicationHint				会谈、会议、社交聚会
+Tut_LearningHint				辅导、互动学习、知识转移
+UI_AvatarLecturer				讲师形象
+UI_GenericLecturer				通用形象
+UI_BackButton					返回
+UI_VignetteSub					这是围绕着视角的黑色轮廓，有助于防止眩晕。\n\n如果是新用户，建议使用最高百分比。
+UI_VignetteVelocity				旋转时的晕影效果
+UI_VignetteAcceleration				跑步时的晕影效果
+UI_OtherSettings				更多设置
+UI_ShowController				显示控制器
+UI_ShowControllerInfo				显示控制器信息
+UI_ControllerFeedback				控制器震动
+UI_Acceleration					行进速度
+UI_Rotation					转弯速度
+UI_TutorialQuick				快速选择教程
+UI_TutorialRotationLesson			开始旋转教程
+UI_TutorialMoveLesson				开始运动教程
+UI_TutorialTeleportLesson			开始传送教程
+UI_TutorialFreeExploration			开始自由探索
+Tut_TextInput					指向并选择此文本以开始输入...\n\n请按住食指并用控制器上出现的点触摸键盘键。
+Tut_Typing					输入文字
+Tut_360						360° 范围
+Tut_360Info					在 360° 范围内，您可以通过按下 UI 按钮进行导航
+Tut_WhiteboardHeader				白板
+Tut_3DDrawHeader				3D绘制
+Tut_WhiteboardHint				如需在白板上书写，请使用专用白板笔并用笔尖接触白板
+Tut_3DDrawHint					用右手抓住 3D 笔，按下触发按钮并在 3D 中进行绘制。 使用橡皮擦去除线条。
+Keyboard_EnterText				输入文字...
+UI_AudioFeedback				用户界面音频
+//-------------WZL Scene Loca
+Activate360					激活 360° 球体
+Deactivate360					停用 360° 球体
+WZLPanelTitle					移动式防洪单元
+WZLPanelDescription				一种移动式防洪屏障系统，用于快速停止和拦截回水道、溢流，并作为临时设施提高防洪堤坝。该系统具有相互连接的可充水储水单元和支撑结构。
+WZLPanelTime					经过时间：
+WZLPanelStartTutorial				开始教程
+WZLPanelResetTutorial				重置教程
+WZLPanelTestFlood				测试洪水！
+WZLManualTitle					移动式洪水单元使用说明书
+WZLManualGoodLuck				测试洪水，祝你好运！
+WZLManuelStep1					第 1 步：\n揭开地基：\n拧下地板上的塞子
+WZLManuelStep2					第 2 步：\n将柱子正确放置在基础顶部
+WZLManuelStep3					第 3 步：\n用螺钉将柱子固定到地基上
+WZLManuelStep4					第 4 步：\n用喷雾罐润滑支柱内部
+WZLManuelStep5					第 5 步：\n放置密封原木：底部原木与橡胶部分先
+WZLManuelStep6					第 6 步：\n拧入\n拧紧夹具\非上圆木顶部
+WZLDrillInfo					点在螺钉顶部开始拧紧
+WZLSprayInfo					将喷嘴指向色谱柱的橡胶以进行润滑
+WZLScrewIn					拧紧
+WZLLubricateHint				请润滑色谱柱
+WZLScrewOut					删除这个
+WZLProtectionWallInfo1 				用自动螺丝刀\n在每个突出显示的部分上卸下 4 个插头
+WZLProtectionWallInfo2 				在此处插入中心支撑
+WZLProtectionWallInfo3 				在每个突出显示的部分上安装 4 个螺钉
+WZLProtectionWallInfo4				附上停止日志\n（底部有黑条的条）
+WZLProtectionWallInfo5				附加额外的停止日志\n直到它达到此级别
+//-------------RWTH Scene Loca
+RWTH_BoothCurrentUser				Current user is having a look at a website.\nIf you would like to see it, please ask;
+RWTH_BoothNoUser				No one is viewing anything.\nFeel free to step in.
+RWTH_BoothFaculty				Faculty
+RWTH_BoothFacultyInfo				Faculty Info
+RWTH_BoothResearchTab				Research
+RWTH_BoothTeachingTab				Teaching
+RWTH_BoothHint1					Click the research or teaching tab to see the related media content
+RWTH_BoothHint2					Click the arrows (or swipe) to switch between different media content in a tab
+RWTH_BoothHint3					Click on the media icon to play a video, show an image or open a website
+RWTH_BoothHint4					Here you can see who is currently in control of the media panel
+RWTH_BoothHint5					Click on the timeline to change the current video time. It will be synchonized to other viewers  as well
+RWTH_BoothHint6					In this section you can see the currently played media (video, image or website)
+RWTH_Appointment				Appointments Schedule
+RWTH_ClickExit					Click to exit
+RWTH_RoomAvailable				Room available from:
+RWTH_360Area					360° Videos Area
+RWTH_360Button1					phyphox\n\nphysical phone experiments
+RWTH_360Button2					RWTH Main Building

@@ -1,0 +1,389 @@
+//-------------UI Loca
+Loading_LoadingHint				Szene lädt gerade, bitte warten Sie einen Moment...
+Loading_LanguageSelect				Sprachauswahl
+Loading_Submit					Bestätigen
+Loading_HintComplete				Laden abgeschlossen, drücken Sie die Bestätigungstaste, um fortzufahren
+Loading_HintRandom1				Schauen Sie sich das Tutorial an, wenn Sie neu bei MyScore sind
+Loading_HintRandom2				In den Einstellungen, können Sie die Controller Info wieder aktivieren
+Loading_HintRandom3				Konferenzszenen eignen sich gut für Meetings, Vorträge und den Austausch
+Loading_HintRandom4				In speziellen 360°-Szenen können Sie die UI-Tasten verwenden, um zu interagieren
+Loading_HintRandom5				Sie können Ihre Sprache während des Starts von MyScore oder in der Willkommensszene ändern
+Loading_HintRandom6				Wenn Sie Übelkeit verspüren, ändern Sie die Einstellungen (Vignette, Beschleunigung) für ein angenehmeres Erlebnis
+Loading_HintRandom7				Für neue Benutzer von VR ist der Teleport die bevorzugte Art der Bewegung
+UI_MenuError1					teilt gerade den Bildschirm,\nnur eine Person kann den Bildschirm gleichzeitig teilen
+UI_MenuHelp1					Wenn du mich benötigst, findest du mich an deinem linken Handgelenk.
+UI_MenuHelp2					Der Radius deines Mikrofons wurde in diesem Szenario auf Maximal gestellt
+UI_MenuHelp3					Wenn du hier stehst, wird deine Stimme von allen gehört
+UI_MenuTitle					Menü
+UI_MenuLogout					Logout
+UI_MenuRecenter					Fenster zentrieren
+UI_MenuMinimize					Fenster minimieren
+UI_MenuShowKeyboard				Zeige Keyboard
+UI_MenuHide					Blende Panel aus
+UI_MenuShow					Zeige Panel
+UI_MenuAdmin					Admin
+UI_MenuNotepad					Notepad
+UI_MenuDrawpad					Drawpad
+UI_MenuWebsite					Webseite
+UI_MenuSetting					Einstellung
+UI_MenuPenSize					Stiftgröße
+UI_MenuSave					Speichern
+UI_MenuClearAll					Löschen
+UI_MenuEnterURL					Gib deine URL ein ...
+UI_MenuSaveLink					Speichere den aktuellen Link
+UI_PhysicalSetting				Physikalische Einstellungen Setting
+UI_UserHeight					Nutzer Größe
+UI_MenuMovementHeader				Bewegungsgeschwindigkeit
+UI_MenuControllerInfo				Controller Information
+UI_MicrophoneHeader				Mikrofone
+UI_MicrophoneMuted				Du bist stumm geschaltet
+UI_MicrophoneUnmuted				Du sprichst
+UI_MicrophoneRadius				Sprach-\nradius
+UI_MicrophoneDefault				Leer (Voreinstellung)
+UI_MicrophoneSelected				Ausgewähltes\nMikrofon
+UI_MicrophoneList				Mikrofonliste
+UI_ShareScreen					Bildschirm Teilen
+UI_ShareScreenInfo				- Nichts zum Teilen -\n Ziehe und lege das Fenster ab, dass du teilen möchtest.
+UI_ShareScreenNameInfo				Du siehst den Bildschirm von:
+UI_AdminAttendance				Anwesenheit
+UI_AdminAttendanceInfo				Zeige die Besuchere in diesem Raum
+UI_AdminEnvironment				Umgebung
+UI_AdminEnvironmentInfo				Stelle die Umgebung des Raums ein
+UI_AdminScenario				Szenario
+UI_AdminScenarioInfo				Wechsele zu einem anderen Szenario
+UI_AdminGadgets					Zusatzfunktionen
+UI_AdminGadgetsInfo				die Zusatzfunktion für einen Admin
+UI_AdminAttendanceTitle				Anwesenheitsliste:
+UI_AdminAttendancePlaceholder			suche nach Besuchern im Raum. . .
+UI_AdminAttendanceLocation			Zeige Position
+UI_AdminAttendanceMakeAdmin			Gebe\nAdmin Rechte
+UI_AdminAttendanceShareScreenOff		Bildschirm\n Teilen beenden
+UI_AdminAttendanceKick				Aus dem Raum werfen
+UI_AdminEnvironment360Video			360° Videos:
+UI_AdminEnvironmentNone				Leer
+UI_AdminEnvironmentCloudy			Wolkig
+UI_AdminEnvironmentAurora			Aurora
+UI_AdminEnvironment360Image			360° Bilder:
+UI_AdminEnvironmentCityBeach			Stadt Strand
+UI_AdminEnvironmentCityView			Stadt Blick
+UI_AdminEnvironmentForest			Wald
+UI_AdminEnvironmentBeach			Strand
+UI_AdminEnvironmentPark				Park
+UI_AdminEnvironmentRWTH				FHNW-Campus
+UI_AdminEnvironmentTUDarmstadt			Darmstadt Campus
+UI_AdminEnvironmentLogo				Logo:
+UI_AdminScenarioSelection			SZENENAUSWAHL
+UI_AdminScenarioMatrix				MATRIX
+UI_AdminScenarioConference			CONFERENZ
+UI_AdminScenarioKatschhof			KATSCHHOF
+UI_AdminScenarioRolePlay			ROLE PLAY\nHALL
+UI_AdminScenarioRektorat			REKTORAT
+UI_AdminScenarioConference360			CONFERENZ\n360
+UI_AdminScenarioWZL				WZL HALLE
+UI_AdminScenarioRestaurant			RESTAURANT
+UI_AdminScenarioCARES				CARES\nAreal
+UI_AdminGadgetClose				Schließen
+UI_AdminGadgetDrone				DRONE
+UI_AdminGadgetDroneCamera			Kamera
+UI_AdminGadgetDroneCameraController		Kamera Controller
+UI_AdminGadgetDroneController			Dronen-Controller
+UI_AdminGadgetDroneDirection			Richtungskontrolle
+UI_AdminGadgetDroneHeight			Höhenkontrolle
+UI_AdminGadgetDroneRotationXZ			Rotationskontrolle - XZ
+UI_AdminGadgetDroneRotationY			Rotation - Y
+UI_AdminGadgetDroneRecordStart			Beginne Aufnahme
+UI_AdminGadgetDroneRecordStop			Stoppe Aufnahme
+UI_AdminGadgetDroneReturn			Zurück zur Kamera
+UI_AdminGadgetDroneFollowStart			Folge mir!
+UI_AdminGadgetDroneFollowStop			Stoppe Folgen
+UI_AdminGadgetIncognito				INKOGNITO
+UI_AdminGadgetIncognitoHeader			INKOGNITO CHARAKTER
+UI_AdminGadgetIncognitoNice			Gute Charaktere
+UI_AdminGadgetIncognitoNormal			Normale Charakter
+UI_AdminGadgetIncognitoMean			Böse Charakters
+UI_AdminGadgetIncognitoExtra			Extra Charakter
+UI_AdminGadgetIncognitoInvisible		Unsichtbar
+UI_AdminGadgetIncognitoGhost			Geist
+UI_AdminGadgetIncognitoRandom			Zufall
+UI_AdminGadgetIncognitoRemove			Inkognito entfernen
+UI_AdminGadgetIncognitoInfo			Du bist gerade incognito.\nDein Avatar sieht anders aus und dein Name ist unsichtbar.
+UI_AdminGadgetNPCManipulator			NPC MANIPULATOR
+UI_AdminGadgetNPCManipulatorHeader		- NPC MANIPULATOR -
+UI_AdminGadgetNPCManipulatorAudience		Gruppenintensität
+UI_AdminGadgetNPCManipulatorAngry		Verärgert
+UI_AdminGadgetNPCManipulatorCheering		Jubelnd
+UI_AdminGadgetNPCManipulatorDistraction		Ablenkungen
+UI_AdminGadgetNPCManipulatorDistractionCommand	Befehl ausgeführt
+UI_AdminGadgetNPCManipulatorThrowGood		NPC werfe ein gutes Objekt
+UI_AdminGadgetNPCManipulatorThrowBad		NPC werfe ein schlechtes Objekt
+UI_AdminGadgetNPCManipulatorCreakingDoor	Knarrendes Türgeräusch
+UI_AdminGadgetNPCManipulatorBoingOnce		Buh! Einmalig
+UI_AdminGadgetNPCManipulatorCheerOnce		Jubeln! Einmalig
+UI_AdminGadgetNPCManipulatorTelephone		Telefonklingeln
+UI_AdminGadgetNPCManipulatorRandomHand		Zufälliges Handheben
+UI_AdminGadgetNPCManipulatorTotalNPC		Totale Anzahl der NPC Verfolger
+UI_AdminGadgetNPCManipulatorFollow		Folgen:
+UI_AdminGadgetNPCManipulatorRefresh		Aktualisieren
+UI_AdminGadgetNPCManipulatorFollowStop		Verfolgung stoppen
+UI_KeyboardScale				Tastatur \n Skala
+UI_KeyboardHide					Tastatur \n Ausblenden
+UI_KeyboardSnap					Einrasten
+UI_KeyboardShow					Tastatur anzeigen
+BigPanelEnterLocalIP				Geben Sie Ihre lokale Server-IP ein
+BigPanelTargetIP				Ziel-IP \n festlegen
+BigPanelResetIP					Auf Standard-IP zurücksetzen
+BigPanelCustomIPInfo				Sie verwenden \n eine benutzerdefinierte IP-Adresse
+UI_MenuSavedLinks				Gespeicherte Links:
+UI_360VideoLoading				Wird geladen ...
+UI_VideoLoading					Bitten Warten . . . In Vorbereitung
+UI_VideoLoadingError				Entschuldigung, die Mediendaten sind nicht vorhanden
+UI_CurrentMedia					Aktuelles Medium:
+UI_CurrentMediaVideo				Video
+UI_CurrentMediaPicture				Bild
+UI_CurrentMediaWebsite				Webseite
+UI_CurrentUser					Aktueller Nutzer:
+UI_VideoButtonPlay				Starten
+UI_VideoButtonPause				Pausieren
+UI_VideoButtonUnmute				Ton an
+UI_VideoButtonMute				Ton aus
+UI_VideoButtonExit				Zurück
+UI_EnterMail					Geben Sie Ihre Mail ein um einen Link der Mediendaten zu erhalten
+UI_EnterMailSend				Versenden
+UI_EnterMailSendHint				E-Mail erfolgreich versendet
+UI_EnterMailSendError				Link nicht versendet, bitte überprüfen Sie Ihre E-Mail
+UI_EnterMailSubject				MyScore VR Link
+UI_EnterMailOpening				Vielen Dank, dass Sie MyScore verwenden.\nDies ist der Link, den Sie ausgewählt haben.\n
+UI_EnterMailClosing				\nWir hoffen, dass es Ihnen weiterhilft.\n\n\nMit freundlichen Grüßen\n\n\nMyScore-Entwicklerteam.\n\nWeitere Informationen finden Sie auf der Website des International Office der RWTH Aachen Universität
+//-------------Welcome Scene Loca
+Button_TutorialStart				Starte Tutorial
+TutorialLanguageHeader				Tutorial Sprache
+Tutorial_PCInfo					PC Steuerung:\n\n> ""WASD"" Tasten <\n(Avatar - Bewegung)\n\n> Maus - Bewegung <\n(Maussteuerung)\n\n> ""Shift"" Taste <\n(Halten um zu laufen, loslassen um zu gehen)\n\n> ""Tab"" Taste <\nSitzen / Stehen\n\n> Maus Taste ""Links"" <\n(Interagiere mit der UI und dem Menü)\n\n> Maus Taste ""Rechts"" <\n(Willkommenshalle: Schließe die Applikation)\n(Weitere Szenen: Öffne das Menü)\n\n> Keyboard Tasten <\nTippe Texte innerhalb des Eingabefeldes
+BigPanel_EnterName				Bitte gib deinen Namen ein...
+BigPanel_GameRoomButton				GEHE ONLINE !
+BigPanel_HintText				Danke dass Sie MyScore nutzen. Die Software befindet sich noch in Entwicklung. Es können einige Fehler auftreten
+BigPanel_HintTextUpdate				Sie nutzen eine alte MyScore Version.\n\nBitte laden Sie die aktuellste Version herunter:\n\nhttps://vredu.lfi.rwth-aachen.de/
+BigPanel_PanelListTitle				ONLINE-RÄUME
+BigPanel_PanelListExplain			Tritt ein in die vorgefertigten Räume und treffe Freunde und Kollegen!
+BigPanel_PanelListFilter			Raum - Auswahlfilter
+BigPanel_PanelListRoomName			gib den Raumnamen ein...
+BigPanel_RoomListAll				Zeige\nalle Räume
+BigPanel_RoomListConference			Konferenz\nRaum
+BigPanel_RoomListKatschhof			Katschhof\nRaum
+BigPanel_RoomListRoleplay			Rollenspiel\nRaum
+BigPanel_RoomListRectorate			Rektorat\nRaum
+BigPanel_RoomListBar				Bar\nRaum
+BigPanel_RoomListFlood				Mobile\nHochwasserschutzwand\nRaum
+BigPanel_RoomListScout				Pfadfinder\nRaum
+BigPanel_RoomListConference360			Konferenz\n360°\nRaum
+BigPanel_RoomListWZL				WZL-Halle
+BigPanel_RoomListRestaurant			Sozialwerk \nRestaurant
+BigPanel_RoomListCARES				CARES \nAreal
+BigPanel_RoomListRiver				Flussgebiets- \nlandschaft
+BigPanel_RoomListRWTHUniversity			RWTH\nAachen
+BigPanel_RoomListBackButton			Zurück zum Login
+BigPanel_OnlineRoomSearch			Suche Raum
+BigPanel_OnlineRoomRefresh			Aktualsieren
+BigPanel_OnlineRoomFilter			Räume nach Name oder Ersteller filtern
+BigPanel_CreateRoomTitle			ERSTELLE NEUEN RAUM
+BigPanel_CreateRoomHeader			Raum Szene: 
+BigPanel_CreateRoomProperties			Raum Eigenschaften:
+BigPanel_CreateRoomNameHeader			Raum Name:
+BigPanel_CreateRoomName				gib den Raumnamen ein...
+BigPanel_CreateRoomUsers			Maximale Nutzer:
+BigPanel_CreateRoomPassword			Raum Passwort:
+BigPanel_CreateRoomPasswordEntry		gib das Raum-Passwort ein...
+BigPanel_CreateRoomPasswordHint			du kannst das Raum-Passwort frei lassen, wenn du es nicht benötigst.
+BigPanel_CreateRoomExpire			Raum - Ablaufdatum:
+BigPanel_CreateRoomButton			NEUEN RAUM ERSTELLEN
+BigPanel_ErrorEmptyName				Name kann nicht leer sein
+BigPanel_ErrorTryConnectServer			Versuche mit Server zu verbinden . . .
+BigPanel_ErrorConnection			Fehler bei Serververbindung, prüfe deine Netzverbindung. Wenn nötig, starte das Programm neu.
+BigPanel_ErrorTryRoomCreation			Versuche Raum zu erstellen . . .
+BigPanel_ErrorTryRoomCreationFail		Raumerstellung nicht erfolgreich.
+BigPanel_ErrorExpireDate			Bitte prüfe ob das Raum - Ablaufdatum richtig ist.
+BigPanel_ErrorExpireDatePast			möglicherweise hast du ein vergangenes Ablaufdatum eingegeben. Bitte überprüfe die Eingabe erneut.
+BigPanel_RoomCreationSuccess			Deine Anfrage wurde erfolgreich versendet. Der Raum wird in Kürze unter "Online Räume" angezeigt.
+AvatarCanvas_Title				AVATAR-AUSWAHL
+AvatarCanvas_Lecturer				Dozenten\nAvatar
+AvatarCanvas_Generic				Generischer\nAvatar
+AvatarCanvas_BackButton				Zurück
+WelcomeWayPointTutorial				Neu bei MyScore?\nProbiere das Tutorial
+WelcomeWayPointAvatar				Passe deinen Avatar und deine Einstellungen an
+Welcome_RobbiVR1.0				Hallo ich bin LFI der Roboter. 
+Welcome_RobbiVR1.1				Willkommen in der Eingangshalle von MyScore - Avatar basiertes Lehren und Lernen in VR. 
+Welcome_RobbiVR1.2				Hier kannst du deinen Avatar auswählen und andere Besucher in den Szenen folgen. 
+Welcome_RobbiVR1.3				Wenn du VR zum ersten Mal nutzt, schaue dir das Tutorial an und entdecke die verschiedenen Einstellungen. 
+Welcome_RobbiVR1.4				Um das Tutorial zu starten, aktiviere den UI-Button "Start Tutorial“ mit dem Zeigefinger auf Ihrem Controller. 
+Welcome_RobbiPC1.0				Hallo ich bin LFI der Roboter. 
+Welcome_RobbiPC1.1				Willkommen in der Eingangshalle von MyScore - Avatar basiertes Lehren und Lernen in VR. 
+Welcome_RobbiPC1.2				Hier kannst du deinen Avatar auswählen und andere Besucher in den Szenen folgen. 
+Welcome_RobbiPC1.3				Um dich zu bewegen, kannst du die WASD Tasten verwenden und die linke Maustaste um die UI zu verwenden. 
+Welcome_RobbiPC1.4				Die vollständige Funktionalität ist nur mit einem VR Headset möglich! 
+BigPanel_ExpireHint				wenn kein Datum eingetragen ist, bleibt der Raum geöffnet, bis die letzte Person diesen verlassen hat.
+MatchButton_Password				Passwort eingeben
+MatchButton_Join				EINTRETEN
+BigPanel_CreateRoomUsersMax			Max. Anzahl von Nutzern im Raum
+BigPanel_OnlineUsers				Online Nutzer:
+UI_LoginGuestHint				Gebe den Gastnamen ein...
+BigPanel_RoomCreated				Dein Raum ist bereit.\nKlicke ""Aktualisieren"" wenn der Raum nicht in der Liste erscheint.
+AvatarCanvas_AllButton				Alle
+AvatarCanvas_MaleButton				Mann
+AvatarCanvas_FemaleButton			Frau
+BigPanel_DisconnectHint				Ihre Verbindung wurde getrennt
+UI_LanguageHeader				Sprache
+AvatarCanvas_SettingsHeader			BENUTZEREINSTELLUNGEN
+AvatarCanvas_SettingsHeight			Ihre Körpergröße
+AvatarCanvas_SettingsAcceleration		Beschleunigungsgeschwindigkeit
+AvatarCanvas_SettingsRotation			Drehgeschwindigkeit
+AvatarCanvas_SettingsController			Controller anzeigen
+AvatarCanvas_SettingsControllerInfo		Controller-Info anzeigen
+AvatarCanvas_SettingsVibration			Controller-Vibration
+AvatarCanvas_SettingsAudioFeedback		Audio-Feedback
+BigPanel_RoomListPresentation			Präsentationshalle
+BigPanel_RoomListWaterCascade			WasserEnergieNahrung\nWasserkaskade
+BigPanel_RoomListWaterDesalination		WasserEnergieNahrung\nEntsalzung
+//-------------Tutorial Scene Loca
+Tut_1.0						Hey! Mein Name ist LFI der Roboter. Willkommen im Club! 
+Tut_1.1						Gib mir ein 'High Five' um das Tutorial zu beginnen! 
+Tut_1.2						Super! Wir starten nun Schritt für Schritt! 
+Tut_1.3						Wenn du eine Lektion überspringen möchtest, nutzte das Auswahl Menü. 
+Tut_1.4						Schau zum Armband auf deiner linken Hand. 
+Tut_1.5						Wir starten mit der ersten Lektion! 
+Tut_2.0						Dies ist der Trainingsbereich. 
+Tut_2.1						Hier erfährst du wie du dich bewegst, interagierst und deine Einstellungen änderst. 
+Tut_2.2						Es mag für den ersten Blick viel erscheinen. Doch keine Sorge, ich begleite dich! 
+Tut_2.3						Als erstes starten wir mit der "Bewegung"! 
+Tut_2.4						Wie du festgestellt hast, kannst du dich in VR umschauen, wie auch in der echten Welt. 
+Tut_2.5.1					Du kannst auch den rechten Controller nutzen um dich umzuschauen. 
+Tut_2.5.2					Ich schalte die Funktion nun frei. Probiere es aus! 
+Tut_2.6						Sehr gut. Nun kannst du deinen Avatar drehen. Lass uns mit dem Laufen fortfahren. 
+Tut_2.7.1					Mit dem linken Controller, kannst du dich forwärts und seitwärts bewegen. 
+Tut_2.7.2					Ich schalte die Funktion für dich frei. 
+Tut_2.7.3					Versuche die markierte Stelle hinter mir zu erreichen! 
+Tut_2.8.1					Sehr gut! Nun weißt du wie man sich im Raum bewegt. 
+Tut_2.8.2					Erforsche als nächstes die Stationen im Tutorial. 
+Tut_2.9.1					Wusstest du, dass du dich auch teleportieren kannst? 
+Tut_2.9.2					Halte / drücke den Knopf am rechten Controller um deine Ziel auszuwähle. 
+Tut_2.9.3					Lasse dann den Knopf los um zu teleportieren! 
+Tut_2.9.4					Ich schalte dir die Funktion frei. Viel Spaß beim Erkunden des Trainingsbereichs! 
+Tut_3.0						Dies ist ein kleiner Meeting Bereich. Hier kannst du einen Sitzplatz auffinden und dich entspannen. 
+Tut_3.1						Um zu sitzen, bewegst du dich zum gewünschten Platz und setzt dich in der realen Welt hin. 
+Tut_3.2						Sitzen wird in Konferenzen und Meeting Szenarios wichtig sein, in denen du dich mit anderen Besuchern treffen kannst. 
+Tut_4.0						Dies sind die Einstellungen. Hier kannst du deinen Avatar auswählen, deine Größe oder Vignette anpassen oder weitere Einstellungen vornehmen. 
+Tut_4.1						Mit dem Index Finger kannst du den Controller für die Interaktion aktivieren. 
+Tut_4.2						Zeige mit der weißen Linie auf das UI Objekt um es auszuwählen. 
+Tut_4.3						Wenn du bereit bist, nutze den Index Finger erneut um die Auswahl zu bestätigen. 
+Tut_4.4						Schau dir auch die anderen Optionen an! 
+Tut_5.0						Hier kannst du Objekte greifen. 
+Tut_5.1						Es gibt 2 Arten von Objekten. Einige kann man mit einer Hand, andere mit beiden Händen greifen. 
+Tut_5.2						Einfache Objekte können mit dem linken oder rechten Controller aufgehoben werden. 
+Tut_5.3						Komplexe Objekte müssen mit beiden Controllern aufgehoben werden. 
+Tut_5.4						Du kannst mit den Mittelfinger Knöpfen (halten) Objekte greifen, wenn du in ihrer Nähe bist. 
+Tut_5.5						Lasse den Mittelfinger Knopf los um Objekte wieder loszulassen oder zu platzieren. 
+Tut_5.6						Komplexe Objekte müssen mit beiden Controllern gehalten werden. 
+Tut_5.7						Lass es uns ausprobieren!. Du kannst auch Objekte aufeinanderstapeln und deren Physik austesten. 
+Tut_AvatarSelection				Avatar Auswahl
+Tut_CommunicationHeader				Kommunikation
+Tut_LearningHeader				Lernen
+Tut_Welcome					Willkommen zum Tutorial von\n\nMyScore\nAvatar-based Teaching & Learning in VR\n\nSchau dich um und entdecke die Grundfunktionen
+Tut_Grab1					Objekte mit einer Hand greifen
+Tut_Grab2					Objekte mit beiden Händen greifen
+Tut_Sitting					Auf unterschiedlichen Plätzen sitzen
+Tut_RestartButton				Tutorial neu starten
+Tut_LeaveButton					Tutorial verlassen
+InfoWallAvatarText				Avatar ändern
+UI_SitButton					Sitzen ?
+UI_WalkButton					Gehen ?
+UI_SitWalkHeader				Möchtest du  . . .
+UI_AvatarHeader					Avatar
+UI_HeightHeader					Größe
+UI_VignetteHeader				Vignette Effekt
+UI_SettingsHeader				Einstellungen
+UI_LoginHeader					LOGIN
+UI_LoginRegister				Nicht registriert? Klicke hier.
+UI_LoginGuest					Als Gast spielen
+Tut_Progress					Fortschritt:
+Tut_ControllerHintMove				Bewege den Thumbstick hoch / runter um dich vor- / rückwärts zu bewegen
+Tut_ControllerHintMoveTeleport			Bewege den Thumbstick während des Teleports für die Ausrichtung
+Tut_ControllerHintGrab				Drücke den Knopf um Objekte zu greifen
+Tut_ControllerHintRotate			Bewege den Thumbstick links / rechts um dich zu drehen
+Tut_ControllerHintIndex				Drücke den Knopf um UI Elemente zu aktivieren. Z.B. mit der Tastatur.
+Tut_ControllerHintTeleport			Drücke den B Knopf um den Teleport zu beginnen
+Tut_ControllerHintTeleportVive			Drücke das Touchpad um den den Teleport zu beginnen
+Tut_ControllerHintMoveVive			Berühre das Touchpad oben / unten um dich vor- / rückwärts zu bewegen
+Tut_ControllerHintRotateVive			Berühre das Touchpad links / rechts um dich zu drehen
+Tut_CommunicationHint				Meetings, Konferenzen, Social Meetups 
+Tut_LearningHint				Tutoring, interaktives Lernen, Wissensvermittlung 
+UI_AvatarLecturer				Dozenten\nAvatar
+UI_GenericLecturer				Generischer\nAvatar
+UI_BackButton					Zurück
+UI_VignetteSub					Dies ist die dunkle Umrandung um die Kamera, die hilft, Motion Sickness zu verhindern.\n\nAls neuer VR Nutzer wird eine hoher % empfohlen.
+UI_VignetteVelocity				Vignetteneffekt beim Drehen
+UI_VignetteAcceleration				Vignetteneffekt beim Laufen
+UI_OtherSettings				Weitere Einstellungen
+UI_ShowController				Zeige Controller
+UI_ShowControllerInfo				Zeige Controller Info
+UI_ControllerFeedback				Controller Vibration
+UI_Acceleration					Laufgeschwindigkeit
+UI_Rotation					Drehgeschwindigkeit
+UI_TutorialQuick				Tutorial Schnellauswahl
+UI_TutorialRotationLesson			Starte Rotationstutorial
+UI_TutorialMoveLesson				Starte Bewegungstutorial
+UI_TutorialTeleportLesson			Starte Teleportationstutorial
+UI_TutorialFreeExploration			Starte freie Erkundung
+Tut_TextInput					Tippe auf den Text um mit dem Schreiben zu beginnen...\n\nHalte die Index-Finger und berühre die Keyboard-Tasten mit den Punkten des Controllers.
+Tut_Typing					Texte schreiben
+Tut_360						360° Sphären
+Tut_360Info					In 360° Sphären kannst du mit den UI Buttons navigieren
+Tut_WhiteboardHeader				Whiteboard
+Tut_3DDrawHeader				3D Zeichnen
+Tut_WhiteboardHint				Um auf dem Board zu schreiben, nutze den speziellen Board Stift und berühre das Board mit der Spitze.
+Tut_3DDrawHint					Greife den 3D Stift mit der rechten Hand, drücke den Trigger Knopf und zeichne Linien in 3D. Nutze den Radierer, um Linien zu entfernen.
+Keyboard_EnterText				Gebe einen Text ein... 
+UI_AudioFeedback				UI Audio Feedback
+//-------------WZL Scene Loca
+Activate360					360°-Sphären aktivieren
+Deactivate360					360°-Sphären deaktivieren
+WZLPanelTitle					Mobile Hochwasserschutzeinheit
+WZLPanelDescription				Ein mobiles Hochwasserschutz-Sperrsystem zum schnellen Stoppen und Aufstauen von Wasserläufen, Überläufen und zur Dammerhöhung im Hochwasserschutz als Behelfsanlage. Das System verfügt über mit Wasser befüllbare Wasserspeichereinheiten, die miteinander und tragenden Strukturen verbunden sind.
+WZLPanelTime					Verstrichene Zeit:
+WZLPanelStartTutorial				Tutorial starten
+WZLPanelResetTutorial				Tutorial zurücksetzen
+WZLPanelTestFlood				Hochwasser testen!
+WZLManualTitle					Bedienungsanleitung Mobile Hochwasserschutzwand
+WZLManualGoodLuck				Hochwasser testen & Viel Glück!
+WZLManuelStep1					SCHRITT 1:\nFundamente freilegen:\nDübel am Boden abschrauben
+WZLManuelStep2					SCHRITT 2:\nSetzen Sie die Mittelstützen richtig auf die Fundamente
+WZLManuelStep3					SCHRITT 3:\nMittelstützen mit Schrauben an den Fundamenten befestigen
+WZLManuelStep4					SCHRITT 4:\nSchmieren Sie die Innenseiten der Mittelstützen mit der Sprühdose ein
+WZLManuelStep5					SCHRITT 5:\nDammbalken platzieren: Unteren Balken mit Gummiteil zuerst
+WZLManuelStep6					SCHRITT 6:\nSchrauben Sie die\nSpannklemme oben auf den oberen Dammbalken
+WZLDrillInfo					Berühren Sie mit der Schraubendreherspitze die Schrauben, um mit dem Schrauben zu beginnen
+WZLSprayInfo					Richten Sie die Spitze der Sprühdose auf den Innenbereich der Mittelstützen um diese zu schmieren
+WZLScrewIn					Festschrauben
+WZLLubricateHint				Bitte schmieren Sie die Mittelstütze ein
+WZLScrewOut					Entferne dies
+WZLProtectionWallInfo1 				Entfernen Sie 4 Dübel mit einem automatischen Schraubendreher\nan jedem der markierten Teile
+WZLProtectionWallInfo2 				Setzen Sie die Mittelstütze hier ein
+WZLProtectionWallInfo3 				Bringen Sie 4 Schrauben an jedem der markierten Teile an
+WZLProtectionWallInfo4				Ersten Dammbalken einsetzen\n(Der Balken mit dem unteren schwarzen Gummi)
+WZLProtectionWallInfo5				Die weiteren Dammbalken einhängen,\nbis diese Ebene erreicht ist
+//-------------RWTH Scene Loca
+RWTH_BoothCurrentUser				Der aktuelle Nutzer schaut sich eine Website an.\nWenn Sie sie sehen möchten, fragen Sie bitte.
+RWTH_BoothNoUser				Niemand sieht sich etwas an.\nFühlen Sie sich frei, einzugreifen.
+RWTH_BoothFaculty				Fakultät
+RWTH_BoothFacultyInfo				Fakultätsinfo
+RWTH_BoothResearchTab				Forschung
+RWTH_BoothTeachingTab				Lehre
+RWTH_BoothHint1					Klicken Sie auf den Unterpunkt Forschung oder Lehre, um die zugehörigen Medieninhalte anzuzeigen
+RWTH_BoothHint2					Klicken Sie auf die Pfeile (oder wischen Sie), um zwischen verschiedenen Medieninhalten in einem Unterpunkt zu wechseln
+RWTH_BoothHint3					Klicken Sie auf das Mediensymbol, um ein Video abzuspielen, ein Bild anzuzeigen oder eine Website zu öffnen
+RWTH_BoothHint4					Hier können Sie sehen, wer derzeit die Kontrolle über das Medienpanel hat
+RWTH_BoothHint5					Klicken Sie auf die Zeitleiste, um die aktuelle Videozeit zu ändern. Es wird auch mit anderen Zuschauern synchronisiert
+RWTH_BoothHint6					In diesem Abschnitt sehen Sie die aktuell wiedergegebenen Medien (Video, Bild oder Website)
+RWTH_Appointment				Terminplan
+RWTH_ClickExit					Klicken Sie zum Verlassen
+RWTH_RoomAvailable				Raum verfügbar ab:
+RWTH_360Area					360° Video Areal
+RWTH_360Button1					phyphox\n\nphysical phone experiments
+RWTH_360Button2					RWTH Hauptgebäude

@@ -1,0 +1,389 @@
+//-------------UI Loca
+Loading_LoadingHint				... يتم تحميل المشهد ، يرجى الانتظار
+Loading_LanguageSelect				اختيار اللغة
+Loading_Submit					تأكيد
+Loading_HintComplete				اكتمل التحميل ، اضغط على زر التأكيد للمتابعة
+Loading_HintRandom1				تحقق من البرنامج التعليمي ، إذا كنت جديدًا في erocSyM
+Loading_HintRandom2				في قائمة الإعدادات ، يمكنك إعادة تنشيط معلومات وحدة التحكم
+Loading_HintRandom3				مشاهد المؤتمرات جيدة للاجتماعات والمحاضرات والتبادلات
+Loading_HintRandom4				في المشاهد الخاصة بزاوية 063 درجة ، يمكنك استخدام أزرار واجهة المستخدم للتفاعل
+Loading_HintRandom5				يمكنك تغيير لغتك أثناء بدء erocSyM أو في مشهد الترحيب
+Loading_HintRandom6				إذا شعرت بالغثيان ، قم بتغيير الإعدادات (نقش الصورة النصفية ، التسارع) لتجربة أكثر راحة
+Loading_HintRandom7				بالنسبة للمستخدم الجديد للواقع الافتراضي ، فإن النقل الفضائي هو الطريقة المفضلة للحركة
+UI_MenuError1					يشارك الشاشة حاليًا ،\n يمكن لشخص واحد فقط مشاركة الشاشة في كل مرة
+UI_MenuHelp1					إذا كنت بحاجة لي ، فسأكون متمركزًا في رأسك الأيسر.
+UI_MenuHelp2					تم تعيين نصف قطر الميكروفون على الحد الأقصى في هذا السيناريو
+UI_MenuHelp3					بالوقوف هنا ، سيسمع صوتك من قبل الجميع
+UI_MenuTitle					قائمة
+UI_MenuLogout					تسجيل خروج
+UI_MenuRecenter					إعادة توسيط النوافذ
+UI_MenuMinimize					تصغير كل النوافذ
+UI_MenuShowKeyboard				إظهار لوحة المفاتيح
+UI_MenuHide					إخفاء اللوحة
+UI_MenuShow					عرض لوحة
+UI_MenuAdmin					مشرف
+UI_MenuNotepad					المفكرة
+UI_MenuDrawpad					لوحة الرسم
+UI_MenuWebsite					موقع الكتروني
+UI_MenuSetting					ضبط
+UI_MenuPenSize					حجم القلم
+UI_MenuSave					يحفظ
+UI_MenuClearAll					امسح الكل
+UI_MenuEnterURL					أدخل عنوان LRU الخاص بك ...
+UI_MenuSaveLink					حفظ الارتباط الحالي
+UI_PhysicalSetting				الإعداد البدني
+UI_UserHeight					ارتفاع المستخدم
+UI_MenuMovementHeader				سرعة الحركة
+UI_MenuControllerInfo				معلومات تحكم
+UI_MicrophoneHeader				ميكروفونات
+UI_MicrophoneMuted				انت صامت
+UI_MicrophoneUnmuted				انت تتحدث
+UI_MicrophoneRadius				التحدث\nنصف القطر
+UI_MicrophoneDefault				بلا (افتراضي)
+UI_MicrophoneSelected				تم تحديد\nميكروفون
+UI_MicrophoneList				قائمة الميكروفون
+UI_ShareScreen					شاشة المشاركة
+UI_ShareScreenInfo				- لا شيء لمشاركته - \nاسحب وأفلت النافذة التي تريد مشاركتها هنا.
+UI_ShareScreenNameInfo				أنت تشاهد شاشة:
+UI_AdminAttendance				حضور
+UI_AdminAttendanceInfo				اعرض المشارك في هذه الغرفة
+UI_AdminEnvironment				بيئة
+UI_AdminEnvironmentInfo				قم بإعداد مزاج الغرفة
+UI_AdminScenario				سيناريو
+UI_AdminScenarioInfo				التغيير إلى سيناريو آخر
+UI_AdminGadgets					الأدوات
+UI_AdminGadgetsInfo				الوظيفة الإضافية للمسؤول فقط
+UI_AdminAttendanceTitle				قائمة الحضور:
+UI_AdminAttendancePlaceholder			ابحث عن الأشخاص في الغرفة. . .
+UI_AdminAttendanceLocation			إظهار الموقع
+UI_AdminAttendanceMakeAdmin			إعطاء \nحق المسؤول
+UI_AdminAttendanceShareScreenOff		قم بإيقاف تشغيل \nمشاركة الشاشة
+UI_AdminAttendanceKick				طرد
+UI_AdminEnvironment360Video			°063 فيديو:
+UI_AdminEnvironmentNone				لا أحد
+UI_AdminEnvironmentCloudy			غائم
+UI_AdminEnvironmentAurora			أورورا
+UI_AdminEnvironment360Image			°063 صورة:
+UI_AdminEnvironmentCityBeach			سيتي بيتش
+UI_AdminEnvironmentCityView			اطلالة المدينة
+UI_AdminEnvironmentForest			غابة
+UI_AdminEnvironmentBeach			شاطئ
+UI_AdminEnvironmentPark				منتزه
+UI_AdminEnvironmentRWTH				FHNW حرم
+UI_AdminEnvironmentTUDarmstadt			tdatsmraD supmaC
+UI_AdminEnvironmentLogo				شعار:
+UI_AdminScenarioSelection			اختيار المشهد
+UI_AdminScenarioMatrix				مصفوفة
+UI_AdminScenarioConference			مؤتمر
+UI_AdminScenarioKatschhof			FOHHCSTAK
+UI_AdminScenarioRolePlay			لعب الدور \nالقاعة
+UI_AdminScenarioRektorat			ريكتورات
+UI_AdminScenarioConference360			مؤتمر \n360
+UI_AdminScenarioWZL				قاعة LZW
+UI_AdminScenarioRestaurant			مطعم
+UI_AdminScenarioCARES				SERAC \nالمنطقة
+UI_AdminGadgetClose				قريب
+UI_AdminGadgetDrone				طائرة بدون طيار
+UI_AdminGadgetDroneCamera			الة تصوير
+UI_AdminGadgetDroneCameraController		تحكم الكاميرا
+UI_AdminGadgetDroneController			تحكم الطائرات بدون طيار
+UI_AdminGadgetDroneDirection			التحكم في الاتجاه
+UI_AdminGadgetDroneHeight			التحكم في الارتفاع
+UI_AdminGadgetDroneRotationXZ			التحكم في الدوران - ZX
+UI_AdminGadgetDroneRotationY			التناوب - Y
+UI_AdminGadgetDroneRecordStart			بدء التسجيل
+UI_AdminGadgetDroneRecordStop			إيقاف التسجيل
+UI_AdminGadgetDroneReturn			أعد الكاميرا
+UI_AdminGadgetDroneFollowStart			اتبعني!
+UI_AdminGadgetDroneFollowStop			وقف التالية
+UI_AdminGadgetIncognito				تستر
+UI_AdminGadgetIncognitoHeader			حرف التخفي
+UI_AdminGadgetIncognitoNice			شخصيات لطيفة
+UI_AdminGadgetIncognitoNormal			شخصيات عادية
+UI_AdminGadgetIncognitoMean			يعني الشخصيات
+UI_AdminGadgetIncognitoExtra			شخصية اضافية
+UI_AdminGadgetIncognitoInvisible		غير مرئى
+UI_AdminGadgetIncognitoGhost			شبح
+UI_AdminGadgetIncognitoRandom			عشوائي
+UI_AdminGadgetIncognitoRemove			إزالة وضع التصفح المتخفي
+UI_AdminGadgetIncognitoInfo			أنت في وضع التصفح المتخفي حاليًا. \nتم تغيير الصورة الرمزية الخاصة بك وأصبحت بطاقة الاسم الخاصة بك غير مرئية.
+UI_AdminGadgetNPCManipulator			مناور الشخصية
+UI_AdminGadgetNPCManipulatorHeader		- مناور الشخصيات -
+UI_AdminGadgetNPCManipulatorAudience		كثافة الجمهور
+UI_AdminGadgetNPCManipulatorAngry		غاضب
+UI_AdminGadgetNPCManipulatorCheering		هتاف
+UI_AdminGadgetNPCManipulatorDistraction		إلتهاء
+UI_AdminGadgetNPCManipulatorDistractionCommand	تم تنفيذ الأمر
+UI_AdminGadgetNPCManipulatorThrowGood		CPN رمي الأشياء الجيدة
+UI_AdminGadgetNPCManipulatorThrowBad		CPN رمي الأشياء السيئة
+UI_AdminGadgetNPCManipulatorCreakingDoor	صوت صرير الباب
+UI_AdminGadgetNPCManipulatorBoingOnce		بوو! مرة واحدة
+UI_AdminGadgetNPCManipulatorCheerOnce		هتاف مرة واحدة
+UI_AdminGadgetNPCManipulatorTelephone		رنين الهاتف
+UI_AdminGadgetNPCManipulatorRandomHand		يد مرفوعة عشوائية
+UI_AdminGadgetNPCManipulatorTotalNPC		إجمالي المتابعين في الشخصيات غير القابلة للعب
+UI_AdminGadgetNPCManipulatorFollow		يتبع:
+UI_AdminGadgetNPCManipulatorRefresh		ينعش
+UI_AdminGadgetNPCManipulatorFollowStop		توقف اتبع
+UI_KeyboardScale				لوحة المفاتيح \n مقياس
+UI_KeyboardHide					إخفاء \n لوحة المفاتيح
+UI_KeyboardSnap					انقر في المكان
+UI_KeyboardShow					إظهار لوحة المفاتيح
+BigPanelEnterLocalIP				أدخل عنوان PI الخاص بالخادم المحلي
+BigPanelTargetIP				تعيين \n PI الهدف
+BigPanelResetIP					إعادة التعيين إلى PI الافتراضي
+BigPanelCustomIPInfo				أنت تستخدم \n عنوان PI مخصص
+UI_MenuSavedLinks				الروابط المحفوظة:
+UI_360VideoLoading				... جار التحميل
+UI_VideoLoading					Please Wait . . . Currently Preparing
+UI_VideoLoadingError				Sorry, the media does not exist.
+UI_CurrentMedia					Current Media:
+UI_CurrentMediaVideo				Video
+UI_CurrentMediaPicture				Picture
+UI_CurrentMediaWebsite				Website
+UI_CurrentUser					Current User:
+UI_VideoButtonPlay				Play
+UI_VideoButtonPause				Pause
+UI_VideoButtonUnmute				Unmute
+UI_VideoButtonMute				Mute
+UI_VideoButtonExit				Exit
+UI_EnterMail					Enter your email to get the media link
+UI_EnterMailSend				Send
+UI_EnterMailSendHint				Email succesfully sent
+UI_EnterMailSendError				Link not send. Please verify your email.
+UI_EnterMailSubject				MyScore Link VR
+UI_EnterMailOpening				Thank you for using MyScore.\nThis is the link that you selected.\n
+UI_EnterMailClosing				\nI hope it is going to be helpfull for you.\n\n\nBest regards,\n\n\nMyScore Developer Team.\n\nFor more information, please visit the International Office website of the RWTH Aachen University
+//-------------Welcome Scene Loca
+Button_TutorialStart				ابدأ البرنامج التعليمي
+TutorialLanguageHeader				لغة البرنامج التعليمي
+Tutorial_PCInfo					ضوابط الكمبيوتر:\n\n> مفاتيح DSAW <\n(نقل الصورة الرمزية)\n\n> حركة الماوس <\n(انظر حولك)\n\n> مفتاح ""tfihS"" <\n(استمر في الجري ، حرر للمشي)\n\n> مفتاح ""baT"" <\nالجلوس / الوقوف\n\n> زر الماوس ""يسار"" <\n(التفاعل مع واجهة المستخدم والقائمة)\n\n> زر الماوس ""يمين"" <\n(قاعة الدخول: أغلق التطبيق)\n(السيناريوهات: فتح القائمة)\n\n> مفاتيح لوحة المفاتيح\nاكتب النصوص داخل حقول الإدخال
+BigPanel_EnterName				يرجى إدخال اسمك...
+BigPanel_GameRoomButton				اتصل بالانترنت !
+BigPanel_HintText				شكرًا لك على تجربة برنامج eroSyM الخاص بنا.\nهذا البرنامج لا يزال في إصدار ألفا\nالرجاء توقع بعض الأخطاء"
+BigPanel_HintTextUpdate				أنت تستخدم تطبيق eroSyM القديم.\nيوصى بتحديثها على:\n\nne.ed.nehcaa-htwr.ifl.uderv//:sptth
+BigPanel_PanelListTitle				غرف عبر الإنترنت
+BigPanel_PanelListExplain			انضم إلى الغرفة الحالية وتعرف على أصدقائك أو زملائك!
+BigPanel_PanelListFilter			اختيار الغرف
+BigPanel_PanelListRoomName			أدخل اسم الغرفة ...
+BigPanel_RoomListAll				تبين\nكل الغرف
+BigPanel_RoomListConference			مؤتمر\nغرفة
+BigPanel_RoomListKatschhof			fohhcstaK\nغرفة
+BigPanel_RoomListRoleplay			لعب الأدوار\nغرفة
+BigPanel_RoomListRectorate			مدير الجامعة\nغرفة
+BigPanel_RoomListBar				صالة\nغرفة
+BigPanel_RoomListFlood				فيضان\nغرفة الحماية
+BigPanel_RoomListScout				كشاف\nغرفة
+BigPanel_RoomListConference360			مؤتمر\n°063 درجة\nغرفة
+BigPanel_RoomListWZL				قاعة LZW
+BigPanel_RoomListRestaurant			krewlaizoS \n مطعم
+BigPanel_RoomListCARES				SERAC \nمنطقة
+BigPanel_RoomListRiver				المناظر الطبيعية لحوض النهر
+BigPanel_RoomListRWTHUniversity			HTWR\n آخن
+BigPanel_RoomListBackButton			العودة إلى تسجيل الدخول
+BigPanel_OnlineRoomSearch			غرفة البحث
+BigPanel_OnlineRoomRefresh			تحديث
+BigPanel_OnlineRoomFilter			قم بتصفية الغرفة حسب اسم الغرفة أو اسم المنشئ
+BigPanel_CreateRoomTitle			إنشاء غرفة جديدة
+BigPanel_CreateRoomHeader			سيناريو الغرفة:
+BigPanel_CreateRoomProperties			خصائص الغرفة:
+BigPanel_CreateRoomNameHeader			اسم الغرفة:
+BigPanel_CreateRoomName				أدخل اسم الغرفة ...
+BigPanel_CreateRoomUsers			أقصى عدد من المستخدمين:
+BigPanel_CreateRoomPassword			كلمة المرور الغرفة:
+BigPanel_CreateRoomPasswordEntry		أدخل كلمة مرور الغرفة ...
+BigPanel_CreateRoomPasswordHint			يمكنك ترك كلمة مرور الغرفة فارغة ، إذا لم تكن بحاجة إلى أي منها.
+BigPanel_CreateRoomExpire			تاريخ انتهاء الغرفة:
+BigPanel_CreateRoomButton			إنشاء غرفة جديدة
+BigPanel_ErrorEmptyName				لا يمكن أن يكون الاسم فارغًا
+BigPanel_ErrorTryConnectServer			حاول الاتصال بالخادم. . .
+BigPanel_ErrorConnection			خطأ في الاتصال ، يرجى التأكد من وجود اتصال بالإنترنت.\nحاول إعادة فتح التطبيق إذا لزم الأمر.
+BigPanel_ErrorTryRoomCreation			تحاول إنشاء غرفة. . .
+BigPanel_ErrorTryRoomCreationFail		فشل إنشاء اللعبة.
+BigPanel_ErrorExpireDate			يرجى التحقق من أن المدخلات\nتاريخ انتهاء الصلاحية صحيح.
+BigPanel_ErrorExpireDatePast			ربما أدخلت تاريخ انتهاء الصلاحية\nهذا ماضي بالفعل.\nيرجى التحقق والمحاولة مرة أخرى.
+BigPanel_RoomCreationSuccess			تم إرسال طلب غرفتك بنجاح.\nستظهر الغرفة قريبًا في قائمة الغرف عبر الإنترنت.
+AvatarCanvas_Title				اختيار الصورة الرمزية
+AvatarCanvas_Lecturer				محاضرين\nالصورة الرمزية
+AvatarCanvas_Generic				نوعي\nالصورة الرمزية
+AvatarCanvas_BackButton				عودة
+WelcomeWayPointTutorial				؟erocSyM جديد في\nجرب البرنامج التعليمي
+WelcomeWayPointAvatar				تخصيص الخاص بك\nالصورة الرمزية والإعدادات
+Welcome_RobbiVR1.0				مرحبًا أنا IFL الروبوت. 
+Welcome_RobbiVR1.1				مرحبًا بكم في قاعة مدخل erocSyM - التدريس والتعلم القائم على الأفاتار في الواقع الافتراضي. 
+Welcome_RobbiVR1.2				هنا يمكنك اختيار الصورة الرمزية الخاصة بك والانضمام إلى الزائرين الآخرين في السيناريوهات. 
+Welcome_RobbiVR1.3				إذا كنت جديدًا على RV ، يمكنك التحقق من البرنامج التعليمي واستكشاف الإعدادات المختلفة. 
+Welcome_RobbiVR1.4				لبدء البرنامج التعليمي ، قم بتنشيط زر واجهة المستخدم "بدء البرنامج التعليمي" بإصبعك السبابة على وحدة التحكم الخاصة بك. 
+Welcome_RobbiPC1.0				مرحبًا أنا IFL الروبوت. 
+Welcome_RobbiPC1.1				مرحبًا بكم في قاعة مدخل erocSyM - التدريس والتعلم القائم على الأفاتار في الواقع الافتراضي. 
+Welcome_RobbiPC1.2				هنا يمكنك اختيار الصورة الرمزية الخاصة بك والانضمام إلى الزائرين الآخرين في السيناريوهات. 
+Welcome_RobbiPC1.3				للتنقل ، يمكنك استخدام مفاتيح DSAW على لوحة المفاتيح وأزرار الماوس للتفاعل مع واجهة المستخدم. 
+Welcome_RobbiPC1.4				الوظيفة الكاملة متاحة مع سماعة رأس !RV 
+BigPanel_ExpireHint				إذا لم يتم إدخال التاريخ ، فستبقى الغرفة مفتوحة ،\nحتى يغادر آخر شخص الغرفة.
+MatchButton_Password				أدخل كلمة المرور
+MatchButton_Join				انضم
+BigPanel_CreateRoomUsersMax			الأعلى. يسمح للمستخدم في الغرفة ...
+BigPanel_OnlineUsers				مستخدمين على الهواء:
+UI_LoginGuestHint				أدخل اسم ضيفك ...
+BigPanel_RoomCreated				غرفتك جاهزة الآن.\nانقر فوق ""تحديث"" إذا لم يظهر.
+AvatarCanvas_AllButton				الجميع
+AvatarCanvas_MaleButton				ذكر
+AvatarCanvas_FemaleButton			أنثى
+BigPanel_DisconnectHint				لقد تم قطع اتصالك
+UI_LanguageHeader				لغة
+AvatarCanvas_SettingsHeader			إعدادات المستخدم
+AvatarCanvas_SettingsHeight			طولك
+AvatarCanvas_SettingsAcceleration		سرعة التسارع
+AvatarCanvas_SettingsRotation			سرعة الدوران
+AvatarCanvas_SettingsController			عرض المراقب
+AvatarCanvas_SettingsControllerInfo		إظهار معلومات وحدة التحكم
+AvatarCanvas_SettingsVibration			اهتزاز جهاز التحكم
+AvatarCanvas_SettingsAudioFeedback		ملاحظات صوتية
+BigPanel_RoomListPresentation			قاعة العرض
+BigPanel_RoomListWaterCascade			المياه والطاقة الغذاء\nالمياه المتتالية
+BigPanel_RoomListWaterDesalination		ماء وطاقة غذاء \ n تحلية
+//-------------Tutorial Scene Loca
+Tut_1.0						مهلا اسمي IFL الروبوت. مرحبا في النادي! 
+Tut_1.1						em' eviF hgiH ، إذا كنت تريد بدء البرنامج التعليمي! 
+Tut_1.2						رائعة! الآن سنبدأ خطوة بخطوة! 
+Tut_1.3						إذا كنت ترغب في تخطي درس ما ، يمكنك تحديد أحد الدروس بسرعة في قائمة الاختيار. 
+Tut_1.4						انظر فقط إلى معصم يدك اليسرى وحدد الدرس. 
+Tut_1.5						لنبدأ بالدرس الأول! 
+Tut_2.0						هذه هي ساحة التدريب. 
+Tut_2.1						هنا سوف تتعلم كيفية التحرك والتفاعل وتغيير الإعدادات الخاصة بك. 
+Tut_2.2						قد يبدو الأمر مربكًا بعض الشيء. لكن لا تقلق ، سأرشدك! 
+Tut_2.3						أولا؛ لنبدأ بـ "الحركة"! 
+Tut_2.4						كما لاحظت ، يمكنك إلقاء نظرة حولك ببساطة عن طريق الالتفاف في العالم الحقيقي. 
+Tut_2.5.1					يمكنك أيضًا الالتفاف باستخدام وحدة التحكم اليمنى. 
+Tut_2.5.2					سأفتح هذه الميزة لك. لنجربها! 
+Tut_2.6						رائع ، الآن أنت تعرف كيف تستدير مع الصورة الرمزية الخاصة بك. دعنا نواصل المشي. 
+Tut_2.7.1					باستخدام وحدة التحكم اليسرى ، يمكنك التحرك للأمام وللجانبين. 
+Tut_2.7.2					سأفتح الميزة لك. 
+Tut_2.7.3					حاول الوصول إلى النقطة المحددة ورائي! 
+Tut_2.8.1					عمل عظيم! الآن أنت تعرف كيفية التنقل. 
+Tut_2.8.2					بعد ذلك ، استكشف المحطات في البرنامج التعليمي. 
+Tut_2.9.1					هل تعلم أنه يمكنك أيضًا استخدام النقل الفضائي للتنقل؟ 
+Tut_2.9.2					استمر / اضغط على الزر الموجود على وحدة التحكم اليمنى لتحديد وجهتك. 
+Tut_2.9.3					ثم حرر الزر للانتقال الفوري! 
+Tut_2.9.4					سأفتح الميزة لك. استمتع باستكشاف ملعب التدريب! 
+Tut_3.0						هذه منطقة اجتماعات صغيرة. هنا يمكنك أن تجد مكانًا مريحًا للجلوس والاسترخاء. 
+Tut_3.1						للجلوس ، ما عليك سوى المشي إلى كرسي أو إلى الأريكة ، والعثور على الوضع الصحيح والجلوس كما هو الحال في العالم الحقيقي. 
+Tut_3.2						سيكون الجلوس مهمًا في سيناريوهات المؤتمر أو الاجتماع ، حيث يمكنك الاختلاط بالزوار الآخرين. 
+Tut_4.0						هذه قائمة الإعدادات. هنا يمكنك تغيير الصورة الرمزية الخاصة بك ، أو ضبط الارتفاع ، أو تعديل الصورة النصفية ، أو تغيير الإعدادات المختلفة. 
+Tut_4.1						بالضغط على زر السبابة ، تقوم بتنشيط وحدة التحكم للتفاعل. 
+Tut_4.2						أشر بالخط الأبيض فوق كائن واجهة المستخدم لتحديده. 
+Tut_4.3						عندما تكون جاهزًا ، اضغط على زر السبابة الموجود على وحدة التحكم لتأكيد التحديد. 
+Tut_4.4						تحقق من خيارات القائمة الأخرى! 
+Tut_5.0						هنا يمكنك انتزاع أشياء مختلفة. 
+Tut_5.1						هناك نوعان من الأشياء. المسكة المفردة والأشياء المزدوجة. 
+Tut_5.2						يمكن إمساك الأشياء ذات الإمساك الفردي بجهاز التحكم الأيسر أو الأيمن. 
+Tut_5.3						كائنات الإمساك المزدوجة ، يجب إمساكها بكلا وحدات التحكم. 
+Tut_5.4						يمكنك الإمساك بجسم بالمشي بالقرب منه ، وتوجيه وحدة التحكم مع الاستمرار في الضغط على زر الإصبع الأوسط. 
+Tut_5.5						من خلال تحرير زر الإصبع الأوسط ، يمكن وضع الكائن أو غمسه. 
+Tut_5.6						يجب حمل كائنات الإمساك المزدوجة مع كل من وحدات التحكم ليتم نقلها. 
+Tut_5.7						لنجربها! يمكنك أيضًا محاولة تكديس الأشياء وتجربة فيزياءها. 
+Tut_AvatarSelection				اختيار الصورة الرمزية
+Tut_CommunicationHeader				الاتصالات
+Tut_LearningHeader				التعلم
+Tut_Welcome					مرحبًا بك في البرنامج التعليمي الخاص بـ\n\nerocSyM\nالتدريس والتعلم القائم على الصورة الرمزية في الواقع الافتراضي\n\nألق نظرة حولك واستكشف الضوابط الأساسية
+Tut_Grab1					كائنات انتزاع واحدة
+Tut_Grab2					كائنات الإمساك المزدوجة 
+Tut_Sitting					الجلوس على مقاعد مختلفة
+Tut_RestartButton				أعد تشغيل البرنامج التعليمي
+Tut_LeaveButton					ترك البرنامج التعليمي
+InfoWallAvatarText				تغيير الصورة الرمزية الخاصة بك
+UI_SitButton					يجلس ؟
+UI_WalkButton					يمشي ؟
+UI_SitWalkHeader				هل تريد أن . . .
+UI_AvatarHeader					الصورة الرمزية
+UI_HeightHeader					ارتفاع
+UI_VignetteHeader				تأثير نقوش الصورة النصفية
+UI_SettingsHeader				إعدادات
+UI_LoginHeader					تسجيل الدخول
+UI_LoginRegister				غير مسجل؟ انقر هنا.
+UI_LoginGuest					اللعب كضيف
+Tut_Progress					تقدم:
+Tut_ControllerHintMove				حرك عصا التحكم لأعلى / لأسفل\nاذهب الى الامام اذهب للخلف
+Tut_ControllerHintMoveTeleport			حرك عصا التحكم أثناء النقل الآني لضبط اتجاهك
+Tut_ControllerHintGrab				اضغط للإمساك بشيء
+Tut_ControllerHintRotate			حرك عصا التحكم إلى اليسار / اليمين لتدوير اتجاهك
+Tut_ControllerHintIndex				اضغط للتفاعل مع واجهة المستخدم / الشاشة. على سبيل المثال الكتابة على لوحة المفاتيح
+Tut_ControllerHintTeleport			اضغط على الزر B لتنشيط النقل الآني
+Tut_ControllerHintTeleportVive			اضغط على لوحة اللمس لتنشيط النقل الآني
+Tut_ControllerHintMoveVive			المس لوحة اللمس لأعلى / لأسفل\nللتحرك للأمام / للخلف
+Tut_ControllerHintRotateVive			المس لوحة اللمس يسارًا / يمينًا لتدوير اتجاهك
+Tut_CommunicationHint				الاجتماعات والمؤتمرات واللقاءات الاجتماعية
+Tut_LearningHint				الدروس الخصوصية والتعلم التفاعلي وتبادل المعرفة
+UI_AvatarLecturer				محاضرين\nالصورة الرمزية
+UI_GenericLecturer				نوعي\nالصورة الرمزية
+UI_BackButton					عودة
+UI_VignetteSub					هذا هو الضباب الأسود حول العين مما يقلل من دوار الحركة للمستخدم.\n\nيوصى بضبط ""القوة"" على الحد الأقصى. في السرعة الزاوية والخطية لمستخدم جديد
+UI_VignetteVelocity				تأثير السرعة الزاوية
+UI_VignetteAcceleration				تأثير التسريع الخطي
+UI_OtherSettings				اعدادات اخرى
+UI_ShowController				عرض المراقب
+UI_ShowControllerInfo				إظهار معلومات وحدة التحكم
+UI_ControllerFeedback				اهتزاز جهاز التحكم
+UI_Acceleration					سرعة التسارع
+UI_Rotation					سرعة الدوران
+UI_TutorialQuick				التحديد السريع للبرنامج التعليمي
+UI_TutorialRotationLesson			بدء درس التناوب
+UI_TutorialMoveLesson				درس بدء الحركة
+UI_TutorialTeleportLesson			ابدأ درس النقل الآني
+UI_TutorialFreeExploration			ابدأ الاستكشاف المجاني
+Tut_TextInput					أشر إلى هذا النص وحدده لبدء الكتابة ...\n\nللكتابة ، اضغط مع الاستمرار على السبابة والمس مفاتيح لوحة المفاتيح مع النقاط الظاهرة على وحدة التحكم.
+Tut_Typing					كتابة نص
+Tut_360						063 درجة المجالات
+Tut_360Info					في مجالات 063 درجة ، يمكنك التنقل بالضغط على أزرار واجهة المستخدم
+Tut_WhiteboardHeader				السبورة
+Tut_3DDrawHeader				رسم ثلاثي الأبعاد
+Tut_WhiteboardHint				للكتابة على السبورة ، خذ قلم اللوحة الخاص ، ووجه الطرف إلى السبورة والمس اللوحة به.
+Tut_3DDrawHint					خذ القلم ثلاثي الأبعاد بيدك اليمنى واضغط على المشغل لبدء الرسم ثلاثي الأبعاد. استخدم الممحاة لإزالة الخطوط.
+Keyboard_EnterText				أدخل النص...
+UI_AudioFeedback				صوت واجهة المستخدم
+//-------------WZL Scene Loca
+Activate360					تنشيط 063 درجة المجالات
+Deactivate360					قم بإلغاء تنشيط المجالات بزاوية 063 درجة
+WZLPanelTitle					وحدة الحماية من الفيضانات المتنقلة
+WZLPanelDescription				نظام حاجز متنقل للحماية من الفيضانات للإيقاف السريع وإغلاق المجاري المائية الخلفية والفيضانات ولرفع الجسر في الحماية من الفيضانات كمرفق مؤقت. يحتوي النظام على وحدات تخزين مياه قابلة للتعبئة ومتصلة ببعضها البعض وهياكل داعمة.
+WZLPanelTime					الوقت المنقضي:
+WZLPanelStartTutorial				بدء البرنامج التعليمي
+WZLPanelResetTutorial				إعادة تعيين البرنامج التعليمي
+WZLPanelTestFlood				اختبار الفيضان!
+WZLManualTitle					دليل تعليمات وحدة الفيضانات المتنقلة
+WZLManualGoodLuck				اختبار الفيضان ونتمنى لك التوفيق!
+WZLManuelStep1					الخطوة 1:\nأسس الكشف:\n قم بفك المقابس الموجودة على الأرض
+WZLManuelStep2					الخطوة 2:\nضع الأعمدة بشكل صحيح فوق الأساسات
+WZLManuelStep3					الخطوة 3:\nاربط الأعمدة بالمسامير بالأساسات
+WZLManuelStep4					الخطوة 4:\nقم بتشحيم الدعامات بعلبة الرش
+WZLManuelStep5					الخطوة 5:\nضع سجلات الختم: السجل السفلي بالجزء المطاطي أولاً
+WZLManuelStep6					الخطوة 6:\nالبرغي في\n مشبك التثبيت \ ليس أعلى اللوح العلوي
+WZLDrillInfo					أشر فوق البراغي لبدء الشد
+WZLSprayInfo					قم بتوجيه الفوهة إلى مطاط العمود للتشحيم
+WZLScrewIn					برغي محكم
+WZLLubricateHint				يرجى تليين العمود
+WZLScrewOut					احذف هذا
+WZLProtectionWallInfo1 				قم بإزالة 4 سدادات بمفك براغي تلقائي\nمن كل جزء من الأجزاء المميزة
+WZLProtectionWallInfo2 				أدخل مركز الدعم هنا
+WZLProtectionWallInfo3 				قم بتركيب 4 براغي على كل جزء من الأجزاء المميزة
+WZLProtectionWallInfo4				إرفاق سجل الإيقاف\n(الشريط ذو الشريط الأسود السفلي)
+WZLProtectionWallInfo5				إرفاق سجلات إيقاف إضافية\nحتى تصل إلى هذا المستوى
+//-------------RWTH Scene Loca
+RWTH_BoothCurrentUser				Current user is having a look at a website.\nIf you would like to see it, please ask;
+RWTH_BoothNoUser				No one is viewing anything.\nFeel free to step in.
+RWTH_BoothFaculty				Faculty
+RWTH_BoothFacultyInfo				Faculty Info
+RWTH_BoothResearchTab				Research
+RWTH_BoothTeachingTab				Teaching
+RWTH_BoothHint1					Click the research or teaching tab to see the related media content
+RWTH_BoothHint2					Click the arrows (or swipe) to switch between different media content in a tab
+RWTH_BoothHint3					Click on the media icon to play a video, show an image or open a website
+RWTH_BoothHint4					Here you can see who is currently in control of the media panel
+RWTH_BoothHint5					Click on the timeline to change the current video time. It will be synchonized to other viewers  as well
+RWTH_BoothHint6					In this section you can see the currently played media (video, image or website)
+RWTH_Appointment				Appointments Schedule
+RWTH_ClickExit					Click to exit
+RWTH_RoomAvailable				Room available from:
+RWTH_360Area					360° Videos Area
+RWTH_360Button1					phyphox\n\nphysical phone experiments
+RWTH_360Button2					RWTH Main Building
