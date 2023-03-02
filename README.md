@@ -12,10 +12,10 @@ The multi-faceted nature of face-to-face teaching cannot be fully represented by
 Even outside the current global pandemic, especially with regard to international collaborations, the question arises as to what the future of digital teaching looks like and how it can promote exchange between learners and teachers even without presence.
 
 
-There are some asset that you may need to download in order for MyScore to work properly
-https://developer.tobii.com/xr/downloads/
-https://business.vive.com/eu/setup/vive-pro/
-https://developer-express.vive.com/resources/vive-sense/eye-and-facial-tracking-sdk/
-https://assetstore.unity.com/packages/tools/integration/dissonance-for-mirror-networking-143290
-https://assetstore.unity.com/packages/tools/gui/3d-webview-for-android-with-gecko-engine-web-browser-158778
-https://assetstore.unity.com/packages/tools/gui/3d-webview-for-windows-and-macos-web-browser-154144
+There are some assets that you may need to download in order for MyScore to work properly:
+ - https://developer.tobii.com/xr/downloads/
+ - https://business.vive.com/eu/setup/vive-pro/
+ - https://developer-express.vive.com/resources/vive-sense/eye-and-facial-tracking-sdk/
+ - https://assetstore.unity.com/packages/tools/integration/dissonance-for-mirror-networking-143290
+ - https://assetstore.unity.com/packages/tools/gui/3d-webview-for-android-with-gecko-engine-web-browser-158778
+ - https://assetstore.unity.com/packages/tools/gui/3d-webview-for-windows-and-macos-web-browser-154144
