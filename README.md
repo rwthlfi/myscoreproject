@@ -1,5 +1,10 @@
-# MyScore
+# MyScore - Avatar-based teaching and learning
 
+![](https://vredu.lfi.rwth-aachen.de/wp-content/uploads/2021/04/vrdu.png)
+
+See our [Website](https://vredu.lfi.rwth-aachen.de/en/) for more information and for the latest builds.
+
+## What is MyScore?
 
 An open-source software for avatar-based teaching and learning in virtual reality.
 With MyScore, we enable students and lecturers to communicate, teach and learn with each other using avatars and to use a wide variety of teaching and learning scenarios.
